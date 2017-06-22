@@ -1,0 +1,816 @@
+verb lemma	modal	semantic transitivity of the verb	syntactic transitivity of the clause	2 participants	action	telicity	punctuality	volitionality	affirmation	realis mode	agency	affected O	individuat. O	?	verb person	id	context
+abeo		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-385-abiit	ipse autem Alpulus abiit et interpellavit virum venerabilem Adalardum abbatem
+absum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-16-abse	et si quis de nouis, quod abse, subtragere uolueret
+accedo		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-188-accessit	ubi super hanc cambio ad partibus secundum legem accessit Ghiso misso nostro
+accipio		1	1	1	0	1	0	0	1	0	0	0	0	3	3	CDL-127-accepiant	et iniui pauperos adque eginos modernos et futures temporibus consulationem accepiant
+accipio		1	1	1	0	1	0	0	1	0	0	0	0	3	3	CDL-248-accipiant	medietatem accipiant filiis aut filias meas
+accipio		1	1	1	0	1	0	0	1	0	0	0	0	3	3	CDL-127-adcipiant	et uolomus ... ut peregrinos adque eginos cotidie consulationem adcipiant
+accommodo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-25-adcommodauet	amor superne uertutis meum animum adcommodauet pro meis facinoribus
+accresco		0	0	0	1	0	0	0	1	0	0	0	0	2	3	CDL-31-adcriscat	ut de paruitatis rebus nostris nouis mercidem adcriscat
+acquiro	possum	1	1	1	1	0	0	1	1	0	1	0	0	5	1	CDT-15-potuerimus	omne aquisitum nostrum quod aquistavimus aut in antea aquirere potuerimus
+acquiro		1	1	1	1	1	0	0	1	0	0	0	1	5	3	CDL-267-adquirat	qualiter anime nostre medillam adquirat [= acquirant]
+addo		1	0	0	1	1	1	1	1	1	1	0	0	7	3	CDL-62-addedet	sic tamen addedet animus meus Filimari
+addo		1	1	1	1	1	1	1	1	1	1	0	1	9	3	CDL-73-atdidet	et hoc atdidet animus meus
+adduco		1	1	1	1	1	0	1	1	1	1	0	1	8	1	CDL-APPENDICE-adduxi	et adduxi ea ad istum Deusdona presbiterum
+adduco		1	1	1	1	0	0	1	1	1	1	0	0	6	3	CDL-57-adduxet	si exinde exire uolueris, cum tantum exeat quantum adduxet ipse aut fili eius
+adduco		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-128-atduxerunt	qualiter atduxerunt Maurino et Magnouiro presbiteri cartula donationis de eglesia sancti Prosperii
+adimpleo		1	1	1	1	1	0	1	0	0	1	0	0	5	1	MED-500-adimplevero	et si hec non fecero et adimplevero, qualiter superius legitur
+adimpleo		1	0	0	1	1	0	1	0	0	1	0	0	4	1	MED-623-adimplevero	et si ego qui supra Falprando ... non fecero et non adimplevero, sicut superius legitur
+admitto		1	0	0	1	1	0	0	1	1	0	0	0	4	3	CDL-127-admiset	ut uirtus admiset
+admitto		1	0	0	1	1	0	0	1	1	0	0	0	4	3	CDL-138-admiset	ut uirtus admiset
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-385-adfuit	resedente me in domo sanctae matris ecclesiae ... adfuit ante nos memoratus Alpulus
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-202-aderant	ubi nobiscum aderant sacerdotes et lociservatores seu haremannos
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-182-aderant	ubi aderant insimul Rachiprando presbiter ... Petto de curte domni regi et alii plures
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-244-aderant	ubi aderant Sicheradus clericus ... Flaipertus et Ghisiprandus presbiter
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-335-aderant	ubi nobiscum aderant Saripertus presbiter ... Anispaldo clericus
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDT-45-aderant	ubi aderant nobiscum Thomas diaconus ... Gumpertus filius quondam Ursi
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-385-aderant	ubi nobiscum aderant sacerdotes et filii sanctae ecclesie, id est ... Alpertus clericus
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-385-aderant	tunc ibidem nobiscum aderant idonei homines qui dixerunt
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-397-aderant	ubi nobiscum aderant aremannos ... et ... homines Franciscos et alii plures
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-309-aderant	ubi nobiscum aderant sacerdotes et filii sanctae ecclesiae, id est Agiprandus arcidiaconus
+adsum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-APPENDICE-aderant	ubi nobiscum aderant sacerdotes et aremannos huius Lucane ciuitatis
+adsum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-397-adessent	adessent ibidem suprascripti aremannis
+advenio		0	0	0	1	1	1	1	1	1	1	0	0	7	3	MED-244-advenit	advenit Liliopincto presbiter
+advenio		0	0	0	1	1	1	0	1	0	0	0	0	4	3	CDT-46-advenerit	cum die accessionis nostre advenerit
+advivo	mereo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	CDL-256-aduiuere	dum aduiuere meruero
+advivo	mereo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-271-advivere	dum ego advivere meruero
+advivo	mereo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-218-meruero	dum ego qui supra Amiperto clerico advivere meruero et domna genitrice mea Austriperga
+advivo	mereo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	CDL-222-merueremus	dum unus ex nobis aduiuere merueremus
+advivo	mereo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	CDL-93-meruerimus	dum usque aduiuere meruerimus unus aut ambo
+advivo		0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-374-advixerimus	dum Deo volente ..... soror mea advixerimus
+advivo	mereo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-178-meruerint	et dum Gumpranda aut filias meas aduiuere meruerint
+aedifico		1	1	1	1	1	0	1	1	1	1	1	1	9	3	CDL-194-aedificabet	ecclesie sancte Marie et sancti Donati , quem pater meus aedificabet [= aedificavit]
+affluo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-93-affluent	diuitie si affluent, nolite cor adponere
+affor		1	0	0	1	0	0	1	1	1	1	0	0	5	3	CDL-124-adfatus	ideo omnipotens Dominus suo fideli famulo iustoque dispensatori adfatus est dicens
+ago	praesumo	1	0	0	1	0	0	1	1	0	1	0	0	4	1	MED-201-agere	eius heredes contra quem contemnere vel agere presumserimus
+ago	volo	1	0	0	1	0	0	1	1	0	1	0	0	4	1	CDT-28-boluerimus	si qualive tempore ego qui supra Tao de anc concambiatione aggere aud causare boluerimus
+ago	praesumo	1	1	1	1	0	0	1	1	0	1	0	0	5	3	MED-309-presumpserit	si quis presbiter aut diaconus ad proprio episcopo excommunicatus presumpserit aliquid ministerii agere
+appareo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-744-adparuerit	si adput nos peiorata adparuerit
+appareo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-624-apparuerit	si ... per nos peiorata vel substracta apparuerit
+appropinquo		0	0	0	1	0	0	1	0	1	1	0	0	4	3	CDL-30-adpropinquat	sed thensaurizate uobis thesaurum in caelum ubi fur, id est diabolus, non adpropinquat
+appropinquo		0	0	0	1	0	0	1	0	1	1	0	0	4	3	CDL-178-adpropinquat	set thensaurizate uobis thensaurum in celo ubi fur, id est diauulus, non adpropinquat
+aspiro		0	0	0	1	0	0	1	1	0	1	0	0	4	3	CDT-14-adspiraberit	tantum si mihi Deus adspiraberit, ut in monasterio ... intrare voluero
+audio		1	1	1	0	0	0	0	1	0	0	0	1	3	3	CDL-APPENDICE-audeas	domine, audeas [= audiat] me pietas uestra
+audio	digno	1	1	1	0	0	0	1	1	0	0	0	1	4	2	MED-202-dignetis	domine audire nos dignetis
+capio		1	1	1	1	1	0	1	1	0	1	0	0	6	3	CDL-287-capeat	quod partibus Etalie usus capeat
+capio		1	1	1	1	1	0	1	1	1	1	0	1	8	3	MED-271-coepit	anno regni eius quo Langubardiam coepit vigisimo quinto
+capio		1	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-16-capiant	suoque arbitrio perfectissime capiant homane mentis
+causor	praesumo	1	0	0	1	0	0	1	1	0	1	0	0	4	3	CDL-143-causare	et si quis de heredibus uel consortes meos ... de suprascriptas res causare aut subtragere uel intentionare presumpserit
+coepio		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-255-cepimus	secundum ipsam iussionem cepimus eis dicere ut quidquid uellent nobiscum agere deberent
+commoneo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-28-scriuere	quam dotalii et monusculi me cartulam Petro nepoti meo ... scriuere commonui
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	CDL-140-conpleui	ego Osprandus diaconus pos tradita conpleui et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	CDL-92-conpleui	ego Gaidilapu pos traditione conpleui et emisi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	CDL-273-conpleui	ego Filippus clericus post traditam conpleui et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	1	8	1	CDL-49-cumpliui	ego Roduald notarius hanc cartula scripsi, soledos dante uidi et pos tradita cumpliui
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-240-complevi	ego Gumpertus presbiter post traditam complevi et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-623-complevi	ego Andreas notarius post traditam complevi et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-764-complevi	ego Adalfridi notarius post traditam complevi et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-535-complevi	ego Teufridi notarius post traditam complevi et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-451-conplevi	ego Petrus clericus notarius post traditam conplevi et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-271-conplevi	ego Rachiprandus subdiaconus post traditam conplevi et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-622-conplevi	ego Teufridi notarius post traditam conplevi et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-323-conplevi	ego Cervasi post traditam conplevi et dedi
+compleo		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-805-conplevi	ego Aloni notarius post traditam conplevi et dedi
+compleo		1	1	1	1	1	1	1	1	1	1	0	1	9	1	CDT-28-conplevi	ego Speciosus presbiter et notarius ... quam post tradita roborata conplevi et dedit feliciter
+compono		1	1	1	1	1	0	1	1	0	1	0	0	6	3	MED-277-compona	compona ipsi heredes meus ... omnia in triplum res melioratas
+compono		1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-214-conpona	conpona uobis ille heridis meus ... auri soledos nomero mille quinienti
+compono		1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-217-componam	componam ego ... aut meus postero supcessore ... soledus numerum quinquagentas
+compono		1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-180-componamus	componamus ... ego Lampert presbitero vel posterus meus auri solidos nomiro quadraginta
+compono		1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-409-componamus	ut ego aut suprascripti filii mei componamus tibi ..... solidos sexaginta
+compono		1	1	1	1	1	0	1	1	0	1	0	1	7	1	CDL-49-cunponamus	cunponamus tiui pine nomine auri soledos duodeci et duo tremmissi
+compono		1	1	1	1	1	0	1	1	0	1	0	1	7	3	MED-530-(sit) componiturus	tunc sit componiturus ipse heredes vel successores meos tibi ... penam argentum solidos octuagenta
+compono		1	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-425-(sint) componiturus	volo ut sint componiturus ipse heredes vel successores meos
+concambio		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDT-23-concambiavemus	omnia unus ad alterium, pars a partibus in fenitum concambiavemus
+concedo		1	1	1	1	0	0	1	1	1	1	0	0	6	1	CDL-124-concedo	mouilia et inmouilia, familia seseque mouentia in tuo Atoni gure dominioque concedo
+concurro		0	0	0	1	0	0	1	1	0	1	0	0	4	3	CDL-248-concurret	quoniam uoluntas Dei [est] ut cunctis pro anima sua remedium concurret [= concurrant]
+condo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-196-condedit	quia omnipotens Dominus homine livero arbitrio condedit
+confero		1	1	1	1	1	0	1	1	1	1	0	1	8	3	MED-595-contulit	illa portio quam quondam Alaperto presbitero per cartulam isdem ecclesie Domini Salvatoris contulit
+confirmo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-245-confirmamus	haec omnia per eius consensum confirmamus
+confirmo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-170-confirmauet	qualiter iam dicto germano meo in me ipsa eclesia et monasterio sancti Petri confirmauet
+confirmo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-245-confirmauit	quia genitor noster per cartulam omnem rem suam in nobis confirmauit
+confirmo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-APPENDICE-confirmauerunt	et dum testimonia et notario ipsum per euangelia testimonium suum confirmauerunt
+conjungo		0	0	0	1	1	0	1	1	1	1	0	0	6	3	CDL-182-coniunxerunt	et in constituta die iteratim ambe partes ante nos coniunxerunt
+conquiro	possum	1	1	1	1	0	0	1	1	0	1	0	0	5	2	CDT-10-potueris	quicumque res conquerere in vita mea potueris
+consentio		0	0	0	0	0	0	1	1	1	1	0	0	4	1	CDL-61-consensi	ego Rachipert diaconus in pagina confirmationis facta in Filipert bono animo meo consensi et suscripsi
+consentio	volo	0	0	0	0	0	0	1	0	0	1	0	0	2	3	CDL-254-uolueret	si ... filii mei ipsei consintire non uolueret
+conservo		1	1	1	1	0	0	0	1	0	1	0	0	4	3	CDL-127-conseruaueret	conponat pars partes ad illum quis de nus hec omnia conseruaueret pena auri solidos numeros mille
+conservo		1	1	1	1	0	0	1	1	0	1	0	1	6	3	CDL-138-conseruaueret	dum nus Dominus in hoc seculo conseruaueret
+consigno		0	0	0	1	1	0	1	1	1	1	0	0	6	3	CDT-45-consignabit	sicut Arnulfus vicedomoi per testimonia consignabit
+constituo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-532-constituo	et hoc constituo ut ... tum vos toti ... potestatem abeatis omnia in suprascripto ordine pro anima mea faciendi et dispensandi
+consto		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-200-constat	constat me Lampertu viro devoto filio quondam Alfredi vendidisse
+consto		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-244-Constat	constat me Altipertum filium quondam Marcellini de Cuntrone ... vendere
+construo		1	1	1	1	1	0	1	1	1	1	1	1	9	1	CDL-120-construxi	modo in Dei nomine a fundamentis construxi ipsa Dei eclesia
+construo		1	1	1	1	1	0	1	1	1	1	1	1	9	3	MED-291-construxerunt	quia quondam Ansuartu, Ermifridi, Ermualdu, Ansprand, Ermerisci et Ermulau ... construxerunt ecclesiam
+contendo	volo	1	1	1	1	0	0	1	1	0	1	0	1	6	3	MED-539-voluit	set Adegrimus wassus domni regis illam voluit contendere ad partem palatii
+contineo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	CDT-31-contenet	at tale husuo [= usum], quale mihi persolvere dibuit, cod cartulae ..... contenet
+contineo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	CDT-27-contenet	contra hanc suprascripta vinditiones cod [= quod] textus cartule contenet
+contineo		1	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-255-continet	secundum ut suprascripta iussio continet
+contineo		1	0	0	0	0	0	0	0	1	0	0	0	1	3	CDL-255-contenit	nam nec lex nec ratio contenit ut ipsa femina cum custodes ecclesie simul inhabitet
+contineo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	CDT-27-contenit	pro suprascripta vinditiones quod textus cartule contenit
+contingo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-287-continxit	simul et quale portione ipsius [= ipsi] filio meo continxit de monasterio sancte Cristine
+contradico		1	1	1	1	1	0	1	0	1	1	0	1	7	3	MED-742-contradicit	basilicam ipsam ... pars monasterii Sexto non contradicit
+contro	possum	0	0	0	1	0	0	1	0	0	1	0	0	3	1	CDT-88-possa	ut nequem ego Ascolfus nequem filiis ... contra hanc datio mea contrare possa
+contro		1	1	1	1	0	0	1	0	1	1	0	1	6	1	MED-259-contro	quia nec illam ecclesiam sancti Pauli nec rebus ibidem contrare vobis non possum nec contro
+convenio		0	0	0	0	1	0	0	1	1	0	0	0	3	3	MED-400-convenit	tali ordine inter nos convenit ut ego vel meus heredes tibi et successoribus tuis exinde iustitia per singulos annos reddere debeamus
+convenio		0	0	0	0	1	0	0	1	1	0	0	0	3	3	MED-549-convenit	quia convenit mihi ... ut inter nos de aliquantula res commotationem facere deberimus
+convenio		0	0	0	0	1	0	0	1	1	0	0	0	3	3	MED-589-convenit	quia taliter inter nos convenit
+convenio		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-156-conuenerit	si conuenerit mihi
+converso	volo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-14-voluerit	dum predictus presbiter voluerit in suprascripto monasterio conversare
+credo		1	1	1	0	0	0	0	0	1	0	0	0	2	1	CDL-108-credo	et quod fieri non credo quod fiat
+decerno		1	1	1	1	1	1	1	1	0	1	0	0	7	2	MED-654-decreveris	cui tu suprascripta mea venditio dederis aut habere decreveris
+decerno		1	1	1	1	1	1	1	1	1	1	0	0	8	1	CDL-127-decreuimus	de filii uero masculini aut de heredes nostros taliter decreuimus ut ...
+decerno		1	1	1	1	1	1	1	1	1	1	0	0	8	3	CDL-120-decreuet	et sic decreuet animus eius ut ... ipsa eclesia a fundamentis construere deuirem
+decerno		1	0	0	1	1	1	1	1	1	1	0	0	7	3	MED-231-decrevit	qualiter ipsi Sichipertus clericus decrevit per ipso dote
+decerno		1	1	1	1	1	1	1	1	1	1	0	0	8	3	MED-177-decreverunt	nisi tantum decreverunt de Virbonu clerico ut ... inivi rectore et guvernatore esse diveas
+declaro		1	0	0	1	0	0	0	1	1	1	0	0	4	3	MED-385-declarat	sicut textus brevis inferius declarat
+dedico		1	1	1	1	1	0	1	1	1	1	0	1	8	3	MED-385-dedicavit	quando ipsa basilica Rachinardi episcopi dedicavit
+defendo	possum	1	1	1	1	0	0	1	0	0	1	0	1	5	1	MED-567-defendere	si ... da omnes homines eas vobis defendere non potuerimus
+defendo	possum	1	1	1	1	0	0	1	0	0	1	0	1	5	1	MED-774-possum	et nullatenus ipsis defendere possum
+defendo		1	1	1	1	0	0	1	1	0	1	0	1	6	2	CDT-7-defendatis	suprascripta medietate in tuo iuris dominioque in integro vindecis adque defendatis
+defendo	debeo	1	1	1	1	0	0	0	1	0	1	0	1	5	2	MED-414-debeatis	vobis eam defendere debeatis sicut melius potueritis
+defendo	possum	1	1	1	1	0	0	1	0	0	1	0	1	5	1	CDL-265-potuerimus	nisi si ab alio homine defendere non potuerimus nos uobis ipsam rem
+defendo	debeo	1	1	1	1	0	0	0	1	0	1	0	1	5	3	MED-394-debeat	parte prefate ecclesie sancti Petri terra ipsa sibi defendere debeat qualiter potuerit
+defenso	possum	1	0	0	1	0	0	1	0	0	1	0	0	3	1	CDL-97-defensare	si quando nus ... minime ab omne homine defensare potuerimus
+defenso	possum	1	0	0	1	0	0	1	0	0	1	0	0	3	1	CDL-49-potuerimus	si nos ... a qualiue homine uobis minime defensare potuerimus
+demando		1	0	0	1	1	1	1	1	1	1	0	0	7	3	MED-385-demandavit	ecce paratus sum, iudica inter me et te, sicut domnus rex demandavit
+demergo		0	0	0	1	1	0	0	1	0	0	0	0	3	3	MED-231-demergat	et cum eis demergat in supplicium eternum qui preparatus est diabulo et angelis eius
+depreco	debeo	0	0	0	1	0	0	0	1	0	1	0	0	3	3	CDL-261-deueas	ut sacerdos ... mihi pro salute anime messarum precibus a Domino deprecare deueas
+depreco	debeo	1	1	1	1	0	0	0	1	0	1	0	1	5	3	CDL-136-diueas	ut presbitero qui in psa Dei eclesia ordinatus fueri pro meis facinoribus Dominus deprecare diueas
+depreco	debeo	1	1	1	1	0	0	0	1	0	1	0	1	5	3	CDL-114-debeant	ut sacerdotes ... pro facinoribus meis Dominum deprecare debeant
+deservio		0	0	0	1	0	0	1	1	0	1	0	0	4	3	CDT-45-deservire	ut Rotprandulo, Aspertulu clerico et Perticausulu omni tempore deservire [= deservirent]
+deservio		0	0	0	1	0	0	1	1	1	1	0	0	5	1	MED-797-deservio	ubi modo Cristianus presbitero rector esse videtur et ego Deo auctore deservio
+desino		1	1	1	0	0	0	0	0	0	1	0	1	3	3	CDL-120-desinat	et suo bono animo missarum precum pro peccatis nostris facere non desinat
+detineo		1	1	1	1	0	0	1	1	0	1	0	1	6	3	MED-742-detineret	quod basilicam ipsam iniuste pars monasterii Sexto detineret
+devenio		0	0	0	1	0	0	0	1	0	0	0	0	2	3	MED-376-deveniat	iam dicta Dei ecclesia cum omnibus rebus ad eam pertinentes in tua et de heredibus tuis deveniat potestatem ordinandum
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-214-dixi	sicut supra dixi
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	2	CDT-14-dixistis	ut dixistis
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-124-diximus	ut diximus
+dico		1	0	0	1	0	0	1	1	1	1	0	0	5	3	MED-202-Dicebat	dicebat ipsi Iohanni episcopus cum Fratellu advocato suo: ...
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	CDL-255-dicebat	iterum pars ipsius infantuli dicebat: ...
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-309-dicebat	dicebat prefatus Alpulus: ...
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-385-dixerat	sicut Brunari dixerat
+dico		1	1	1	1	1	0	1	1	0	1	1	0	7	3	CDL-APPENDICE-diceret	ut aliquid haberet quod exinde aduersus eos diceret
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	CDL-93-dicit	Dominus dicit
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	CDL-171-dixit	Liutpertu uir deuotus filio quondam Dondoloni dixit: ...
+dico		1	1	1	1	1	0	1	1	1	1	0	0	7	3	CDL-94-dixit	Gallus uir uenerabilis diaconus tibi eclesie Dei ad que beatissimi sancti Reguli ... perpetuam salutem dixit
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-539-dixit	dixit ... Atus presbiter similiter
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-539-dixit	Savinus similiter dixit
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-202-dicebant	dicebant Iohanne episcopus cum Fratellu advocato suo
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-539-disserunt	Ostrualdus clericus, Gumfridi clericus, Anseramus clericus, Fridianus clericus, Guntelmus clericus similiter disserunt
+dico		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-309-dixerunt	prenominati sacerdotes iurando dixerunt ut veritatem fuissent
+dico		1	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-539-dixerunt	Aloni, Ansperto, Teudiprando et Ermiprando germani ... equaliter dixerunt
+dirigo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	MED-448-direxi	ubi et super hunc concambio secundum legem direxi misso suo Petrus gratia Dei episcopus, id est, Danihel presbitero
+dirigo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-241-direxit	et super hoc cambium direxit Peredeus in Dei nomine episcopus Munualdum
+dispenso		1	1	1	1	0	0	1	1	0	1	0	0	5	1	MED-532-dispensare	ut post obito meo a die presenti pro anime mee remedium venundare et dispensare [= dispensaret] ... omnia et omnibus rebus meis 
+disrumpor	quaero	1	1	1	1	1	0	1	1	0	1	0	1	7	1	CDT-12-quesieremus	si ... ego Ratchausu aut quolivet heredes vel filios meo hanc cartulam disrumpi quesieremus
+do	praesumo	1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-201-dare	cui nos ea dedissemus aut in antea dare presumserimus
+do		1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-113-dare	ut ipse uiganium quem curtes regia dare [= daret]
+do	possum	1	1	1	1	0	0	0	0	0	1	0	0	3	1	MED-397-dare	ipse Gheiprando autore meo mortuus est et exinde autore menime dare possum
+do	nolo	1	1	1	1	0	0	1	0	0	1	0	0	4	2	MED-788-dare	si vos ... autores nec defensores querere nec dare nolueritis aut non potueritis
+do	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-369-dare	per omnes annos dare et persolvere diveam ... ad parte suprascripte ecclesie vel ad eius rectore solidum unum
+do	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-179-dare	ut per singulos annos dare debeamus uno soledo auro in suprascripto domo episcoporum
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	2	MED-801-abere	casa ipsa ..., omnia quantum ad ipsa casa est pertenentes ... mihi dedisti in integrum
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	CDL-210-dedi	ego Ghisprand pos tradita conpleui et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	CDL-240-dedi	ego Osprandus diaconus post traditam conpleui et dedi
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	1	MED-401-dedi	predicta rem quas tibi, ut supra, in commutationem dedi nos vel ille homo
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-442-dedi	ego Petrus clericus notarius post traditam conplevi et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-552-dedi	ego Teutpaldus notarius post traditam conplevi et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-472-dedi	ego Teufridi notarius post traditam complevi et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-513-dedi	ego Teufridi notarius post traditam conplevi et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-193-dedi	ego Filippus presbiter post tradita complevi et dedi
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	1	CDL-254-dedi	exepto ipsa petia que iniui in uiganeum dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-684-dedi	ego Ghiselfridi notarius post traditam complevi et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	CDL-105-dedi	ego Teutpert pos traditi suppleui et dedi
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	1	MED-567-dedi	quas tibi in comutationem dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-318-dedi	ego Teutpertus notarius post tradita complevi et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-248-dedi	ego Ghiselpert post tradita complevi et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-788-dedi	ego Atrualdus notarius post traditam conplevi et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	CDL-259-dedi	ego Rachiprandus clericus post traditam conpleui et dedi
+do		1	0	0	1	1	1	1	1	1	1	0	0	7	1	MED-689-dedi	ego Rachifonsus notarius post traditam complevi et dedi
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	2	MED-761-dedisti	suprascriptis casis et curte domnicata ... mihi dedisti in integrum
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	2	MED-746-dedisti	tu Hieremias ... ad censum vobis persolvendum dedisti mihi, id est, ecclesia
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	2	MED-519-dedisti	tu Petro ... ad censum vobis persolvendum dedisti mihi, id est, uno petiolo de terra
+do		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-487-do	una cum ipsa cartula quas exinde in me emissa est do et trado in integrum
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	1	CDL-178-do	in qua eclesia pro fascinora do, duno, trado, donatoque esse uolo in primis fondamentum infra ciuitate ubi ipse eclesia beati sancti Arcangeli Mihahelis fondata est
+do	debeo	1	0	0	1	1	0	0	1	0	1	0	0	4	3	CDL-261-deueas	et post meo decesso filii mei similiter dare deueas, sicut ego supra premisi
+do	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	2	MED-532-debeatis	domnicatis casis et rebus ... post obitum meum dare et dispensare debeatis
+do		1	1	1	1	0	0	1	0	0	1	0	1	5	2	CDT-47-dederitis	si ... suprascripta pensione per singulos annos non dederitis
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	1	CDL-22-damus	nus pro remuneratione anime nostre damus tibi atque firmamus in ti bassilica beati sancti Prosperii
+do		1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-434-dedissemus	cui nos eam dedissemus aut dederimus
+do		1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-736-dedissemus	cui nos eas dedissemus aut dederimus
+do		1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-799-dederimus	cui nos eas dedissemus aut dederimus
+do	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	3	MED-596-debeat	ipse Walperto clerico quam et ipse filius eius ... dare et persolvere debeat ... denarios ... numero triginta
+do	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	3	MED-596-debeat	ut tam ipse Walperto clerico quam et ipse filius eius ... dare et persolvere debeat ... denarios ... triginta
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-120-dedet	usufructu de ipsa tertia portione quod in mea potestate dedet supradictus domnus meus Ostripert
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-113-dedet	et de ipsa terra quem dedet curte regia
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-113-dedet	et ipse edificias quem curtes hic prope ciuitate dedet eclesie sancti Martini
+do		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-154-dedet	Teuderisciulu, quem dedet nobis Ciemiccio in uiganio
+do		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-774-dedit	et statim dedit wadia ipse Rumoaldus advocato ipsius Audiprandi ita adprobandum
+do		1	1	1	1	1	0	1	1	0	1	0	0	6	3	MED-621-dederit	medietate labore maiore et tertia de minore quas de res ipsa nobis Dominus dederit
+dono	dignor	1	1	1	1	1	0	1	1	0	1	0	0	6	3	CDL-90-dignatus	et si mihi Dominus filios aut filias donare dignatus fueret
+dono	dignor	1	1	1	1	1	0	1	1	0	1	0	0	6	3	MED-372-dignatus	si nobis Dominus pro sua misericordia filium aut filiam donare dignatus fuerit
+dono	dignor	1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-186-dignatus	que iniui ad ipsos Baroncione et Ursus data est aut per qualiuet ingenium iniui Dominus donare fuit dignatus
+eligo		1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-31-eligere	quem siui ipsi monaci de ea congrecationem eligere [=eligerent], ipsum aueat ordinatum
+eligo		1	1	1	1	1	0	1	1	0	1	1	1	8	3	CDL-28-eligeret	quem ipsam congrecationem siui abbatem et priorem eligeret, ipse sit in loco
+eligo	volo	1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-30-uoluerit	eam que sibi congregatio eligere uoluerit, ipsa in abbatisse ordo succidat
+eligo		1	1	1	1	1	0	1	1	0	1	1	1	8	3	CDL-24-eligerent	quem iniui priorem et gubernatorem due partis ex nouis una cum monaci ipsi eligerent
+emitto		1	1	1	1	1	0	1	1	1	1	0	1	8	1	CDT-12-emisi	unde hanc cartulam offersionis in predicto monasterio sancti Petri emisi
+emitto		1	1	1	1	1	0	1	1	0	1	0	1	7	1	CDL-255-emitteremus	proinde nobis demandauit ut ... nostrum emitteremus iudicatum
+eo		0	0	0	1	1	0	1	0	0	1	0	0	4	3	CDT-46-ire	nullus de heredibus, posteris vel parentibus nostris ne qualibe hominum genus ... contra hanc nostra decritione ire
+eo	tento	0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDL-92-temtaueri	si quis ego qui supra uinditor aud eridis mei aud aliquis homo contra hanc uinditione ... ire temtaueri
+eo	praesumo	0	0	0	1	1	0	1	1	0	1	0	0	5	1	CDL-174-presumpserimus/potuerimus	si quis amodo nos qui supra uinditor uel heredes nostros aut aliquis homo contra hanc uinditionem ... ire presumpserimus
+eo	tento	0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDL-160-temtauerit	si ... nos seo heredes uel successores nostri contra hanc cartulas ire temtauerit
+eo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-43-ierint	solidos duo Langobardiscos ... quales tunc per tempore per ista patria ierint
+exeo	praesumo	0	0	0	1	1	0	1	1	0	1	0	0	5	1	MED-301-exire	si ... de ipsa casa et res foras exire presumserimus
+exeo	volo	0	0	0	1	1	0	1	1	0	1	0	0	5	1	CDL-99-exire	si ... de ipsa suprascripta eclesia me uiuentem foris exire uoluero
+exeo		0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDL-192-exeas	tunc exeas ipsis filiis meis cum omnis ris muuilem de ipsa casa
+exeo		0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDL-146-exierit	et si ... alter dominus exierit
+expello	quaero	1	0	0	1	0	0	1	1	0	1	0	0	4	1	MED-554-expellere	si ... nos vobis suprascripta ecclesia sancti Petri et rebus eius retollere aut foras expellere quesierimus
+expello	praesumo	1	1	1	1	1	0	1	1	0	1	0	1	7	1	CDL-242-presumserimus	si ... ego aut rectores... uos de ipsa casa et rem foris expellere ... presumserimus
+expello	volo	1	1	1	1	1	0	1	1	0	1	0	1	7	1	CDT-80-voluerimus	si ego qui supra Amabilis vel meis posteris voluerimus exspellere te suprascriptus Desiderius
+extendo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDT-44-extende	da via publica pedi quindecim, de traversu et de capite viginti quattuor et in longo extende pedi quinquaginta et uno
+extraneo	possum	1	1	1	1	1	0	0	0	0	1	0	1	5	3	CDL-127-possant	nullusque de nus ipsa Dei eclesia uel res eidem pertinente aliui extraneare possant
+facio		1	1	1	1	1	1	1	1	0	1	0	0	7	3	CDl-179-facere	et si forsitan nullus ex filiis aut nepotibus meis ... legibus ad honore presbiterii peruenire non potuerit, ille pontifex iuidem ordinatione faciat
+facio	debeo	1	1	1	1	1	0	0	1	0	1	0	0	5	1	MED-615-facere	ut inter nos de aliquantulam res commutationem facere deberemus, sicut et factum est
+facio	debeo	1	0	0	1	0	0	0	1	0	1	0	0	3	1	CDL-138-facere	de ordinationem ... per comune consilio semper facere diueamus
+facio		1	1	1	1	1	0	1	1	1	1	1	1	9	1	CDL-30-feci	et subter pro confirmationem propriis manibus meis signum sancte crucis feci
+facio		1	1	1	1	0	0	1	1	1	1	0	0	6	1	CDL-260-facio	repromitto et manum meam facio ego Rachiprandus presbiter rector ... tibi Racchulo clerico filio quondam Baruccioli
+facio	debeo	1	1	1	1	0	0	0	0	0	1	0	0	3	3	CDL-138-diueas	nec neque nus neque ordinationem nostra ... nulla subtractionem uel semationem facere diueas
+facio	debeo	1	1	1	1	0	0	0	1	0	1	0	0	4	1	MED-301-debeamus	angaria vero per singulas septimana vobis facere debeamus unum ex nobis aut nostris heridis dies duo
+facio	debeo	1	1	1	1	0	0	0	1	0	1	0	0	4	1	MED-418-debeamus	vero vobis facere debeamus uno de nos in suprascripto loco finibus Maritimense et ... portione, ad que vobis fuerit utilitas
+facio		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-246-fecimus	tam parentes mei quam et ego uoluntatem et imperationem fecimus
+facio		1	1	1	1	1	1	1	1	1	1	0	0	8	1	MED-397-fecimus	iudicavimus et wadia dare fecimus ipso Benedictus eidem Suavi
+facio		1	1	1	1	1	1	1	1	1	1	0	0	8	1	MED-397-fecimus	et ipso Benedicto fecimus ei dare wadia, ut esse parato recipiendum ab eo ipsa consignationem
+facio		1	1	1	1	1	1	1	1	1	1	0	0	8	1	MED-309-fecimus	fecimus ei dare wadiam Landipertum presbiterum nostrum
+facio		1	1	1	1	1	1	1	1	1	1	0	0	8	1	CDL-APPENDICE-fecimus	uuadia dare fecimus ipsum Deusdedit presbiter iam dicti Deusdone presbiteri
+facio		1	1	1	1	0	0	0	1	0	1	1	0	5	3	CDL-175-faciat	ut in senodochio pauperes pascere debeat et omnem officium et luminaria faciat
+facio		1	1	1	1	1	0	1	1	0	1	0	0	6	3	CDL-179-faciat	ille pontifex iuidem ordinatione faciat
+facio		1	1	1	1	1	0	1	1	1	1	1	1	9	3	CDL-253-fecit	ipsa uinditione quas eorum Brittulo fecit
+facio		1	1	1	1	1	0	1	1	1	1	1	0	8	3	CDL-94-fecit	rerum creaturarum omnium creator Deus fecit hominem ad imaginem sue similitudinis
+facio		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-335-fecerunt	qualiter parentes mei pro ipsa re et ecclesia fecerunt voluntate
+facio		1	1	1	1	1	0	1	1	1	1	0	0	7	3	CDL-247-fecerunt	fecerunt inter se placitum Gaudiosus presbiter et Humulus clericus
+facio		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-85-ficerunt	cunsuetudo ipseius case quas parentis nostris ficerunt per singulus annus
+festino		0	1	1	1	0	0	1	1	0	1	0	0	5	3	CDT-46-festinet	bolumtas Dei est ut cunctis pro anime sue remedio festinet concurrere
+firmo		1	1	1	1	1	1	1	1	1	1	0	1	9	2	MED-715-firmasti	casa ipsa cum terris ... nos firmasti in integrum
+firmo		1	1	1	1	1	1	1	1	1	1	0	1	9	2	MED-636-firmasti	casa ipsa cum fundamento et edeficio suo ... me inibi firmasti in integrum
+firmo		1	1	1	1	1	1	1	1	1	1	0	1	9	1	MED-158-firmavi	ipse casa et res ubi te posui et firmavi
+firmo		1	1	1	1	1	1	1	1	1	1	0	1	9	3	CDL-APPENDICE-firmauit	et ante me eam firmauit
+guberno	debeo	1	1	1	1	0	0	0	1	0	1	0	1	5	1	MED-516-gubernare	ut ego vel meus heredes ... ipsa casa quam et ipsa res per singulo anno bene lavorare et gubernare seo meliorare debeamus
+guberno	debeo	1	1	1	1	0	0	0	1	0	1	0	1	5	1	CDL-256-gubernare	et eos gubernare debeam ut uirtus mea fuerit
+guberno	debeo	1	1	1	1	0	0	0	1	0	1	0	0	4	1	MED-427-gubernare	ut ego vel meus heredes ... medietate nos in omnibus bene lavorare et gubernare debeamus
+guberno	debeo	1	1	1	1	0	0	0	1	0	1	0	1	5	1	MED-711-ghubernare	ut ... predicta casa et res bene laborare et ghubernare seo meliorare debeamus 
+guberno	debeo	1	1	1	1	0	0	0	1	0	1	0	1	5	2	MED-180-diveas	repromitto ego Lampert presbitero tivi iam dicto Urse clerico ut te [= tibi] guvernare diveas [= debeam], pro quibus res tua nobis offeruisti ... devestitu, caltiatus, nutritus
+habeo		1	1	1	1	0	0	0	1	0	1	0	0	4	3	CDL-171-auead	sacerdote ... pro anima mea de pondera peccata mea Deo deprecare auead Deo omni tempore
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	3	MED-742-habead	nescio si pars monasterii Sexto basilicam ipsam habead
+habeo	debeo	1	1	1	0	0	0	0	1	0	0	0	1	3	3	MED-384-abere	ut unusquisque reintroire et abere debeat cambium suum
+habeo	debeo	1	1	1	0	0	0	0	1	0	0	0	0	2	2	CDL-62-habere	ut uos semper de nos mercedem habere debeatis
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	3	CDL-114-esse	et quarta parte habeat eclesia sancte Reparate
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	3	CDT-69-abeam	et quitquit exinde facere aut iudicare boluerit, liberam in omnibus abeam potestate
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	1	MED-297-aveam	si ipsa eclesia dimisero et res quem aveam in omnibus non melioraverimus
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	1	MED-414-aberem	ut post eius decessum potestatem aberem pro remedio anime eius venundare et dispensare medietatem
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	1	MED-515-abeo	una petia de terra mea illa quam abeo in loco qui dicitur ad Prata
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	1	CDL-182-habeo	habeo testes in quorum presentia ipsa conparatio facta est
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	1	MED-188-habeo	unam casa massaricia ... quem habeo in loco Apunano
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	3	CDL-214-aueas	"et aueas eclesia Fridiani terra mea sub Monticello , qui fuit quondam Arochisi , quantum mihi da filii ipsius abuine in integrum , in finito ;"
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	2	CDL-269-aueas	ut hab hodierna die aueas et possedeas hec homnia ipsa res mea
+habeo		1	1	1	0	0	0	0	0	0	0	0	0	1	3	CDL-261-haueas	et hoc uolo filii mei post parte sua tulta licentiam non haueas alii homini uendere
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	3	CDL-254-haueas	ut licentia haueas toti filii mei comuniter in ipsa Dei eclesia presbitero ordinando
+habeo		1	1	1	0	0	0	0	0	0	0	0	0	1	3	CDL-138-haueas	nullus de nus nec ordinationem ... haueas potestatem nulla femina adducendi
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	3	CDT-34-aveas	et pos viro ovito meo mater mea Graffilinda ancilla Dei similiter ipsum tremisse reddas et aveas ipsa ad frugis tollendum
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	2	MED-567-abis	quod est prato quas abis ubi dicitur in Tonci
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	2	MED-401-abeatis	ut tu vel successores tuos potestatem abeatis reintroire
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	2	CDL-281-abeatis	ut post meum decessum tam tu quam et ille homo ... potestatem abeatis uendere et dispensare medietate ex omni re mea
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	2	MED-689-abeatis	potestatem abeatis tam vos toti insimul dispensatoribus meis quam et duo seu unum ex vobis
+habeo		1	0	0	0	0	0	0	1	0	0	0	0	1	2	CDL-62-habeatis	ita ut hab hodierna die habeatis, teneatis et possedeatis tam uos qui supra seo filiis heredis uestris
+habeo	debeo	1	1	1	0	0	0	0	1	0	0	0	1	3	2	MED-424-debeatis	tu aut ille homo ... suprascripta res ... abere et possidere et lavorare seu fruere debeatis
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	2	CDL-287-hauis	ut tu potestatem haueas omni scherpa tua, quem ad nomen tuum hauis, pro anima tua iudicandi
+habeo		1	1	1	0	0	0	0	0	0	0	0	0	1	1	CDL-200-habeamus	et ipsa suprascripta res neque uendendi neque donandi nec alienandi neque ad aliam ecclesiam faciendi nunquam habeamus licentia
+habeo	debeo	1	1	1	0	0	0	0	1	0	0	0	1	3	1	MED-428-debeamus	ego vel heredes aut successores meos suprascriptos solidos aput nos abere debeamus
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	1	MED-787-abuimus	omnia ... quantum ... suprascripto quidam Ermulo et ego ipsis qui supra Anso presbitero exinde ad manus nostra abuimus
+habeo		1	1	1	0	0	0	0	0	0	0	0	0	1	3	CDL-30-habeat	nam filius meus uel heredis meus nullam ibidem habeat potestatem dominandi
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	3	CDL-90-habeat	suprascripta casa ... uolo adque decerno ut habeat ipse sancta Dei uertute uel sacerdos
+habeo	debeo	1	1	1	0	0	0	0	1	0	0	0	1	3	3	CDL-28-debeat	ubi sibi abbas uel monachi iniui consistentis ortum uel pigmentarium hauire debeat
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	3	CDL-40-aueat	et seruos uel ancilla ... uolo ut liueram aueat potestatem 
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	3	CDL-90-haueat	et post decesso eius omnia et in omnibus haueat, ut supra, ipsa sancta Dei uirtute
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	3	MED-231-aveat	volo ut ... episcopus huius civitatis ad celebrandas missas cum sacerdotibus ibidem venire licentiam aveat
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	CDL-160-habet	clausura illa in integro quem ad manus suas habet ... massario eclesie sancte Marie
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	CDL-154-habet	due filie Fuscule de Tramonte quem habet ad muliere filio Teudaldi
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	3	MED-397-aberet	ut ipse quattuor petie de vinea aberet parte iam dicte ecclesie sancti Martini
+habeo	debeo	1	1	1	0	0	0	0	1	0	0	0	1	3	3	MED-774-deberet	ut abere deberet pars ipsius ecclesie sancti Cassiani casa et res ipsas unde agebantur
+habeo		1	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-439-abuet	omnia et in omnibus ubi Pettulo massario residere visus fuet et ipsi Pettulo ad manum suam abuet
+habeo		1	1	1	0	0	0	0	1	0	0	0	1	3	3	MED-253-abuerit	unum de nobis, qui cartula ipsa iudicati pre manibus abuerit
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	MED-710-abuit	casa et res illa in suprascripto loco Vallivu quam Ursulo ad manus suas abuit
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-472-abuit	omnia et in omnibus quantum ad predicta ecclesia est pertinentes et ipse Grecorius presbitero ... abuit
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-753-abuit	omnia quantum ad ipsa casa est pertinentes et suprascripto Ghinnulo exinde ad manus suas abuit
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	MED-393-abuit	terra illa quam ipse Tachipertus clericus abuit
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	MED-786-abuit	ecclesiam ... quas quondam Argimo presbitero ad manus suas abuit
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	MED-637-abuit	uno modiorum de terra in Fabrorum que quondam Poso ad manu sua abuit
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-748-abuit	omnia quantum ad ipsa casa est pertenentes et suprascripto Ghinnulo exinde ad manus suas abuit
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-658-abuit	omnia quantum ad ipsa casa est pertenentes et suprascripto genitor meus exinde ad manum sua abuit
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-500-habuit	casa ipsa cum fundamento suo et cum orto suo quanto Aiolfulo ibi ad manu sua habuit
+habeo		1	1	1	0	0	0	0	0	0	0	0	0	1	3	MED-596-abeant	pars ... ecclesie sancti Martini nec pars episcoporum ... nullam abeant potestatem ex ipsa ecclesia
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	3	CDL-93-habeant	potestate habeant heredes aut parentes de ipsi diacones prendere et tenere et defendere
+habeo		1	1	1	0	0	0	0	1	0	0	0	0	2	3	CDL-127-haueant	tantum unum de heredis seo de filii nostros per capud haueant licentiam introire
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	CDT-14-abent	in monasterio ubi monachi abent congregationem
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	MED-543-abuerunt	res illa ... que antea ad manus sua abuit Bonulo et Magnulo
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-714-abuerunt	casis et rebus illis ... queque Atripaldulo et Aggi abuerunt, ad manus suas abuerunt
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-714-abuerunt	casis et rebus illis ... queque Atripaldulo et Aggi abuerunt, ad manus suas abuerunt
+habeo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-805-abuerunt	omnia quantum ... suprascripti massarii exinde ad manus suas abuerunt
+habeo		1	1	1	0	0	0	0	1	1	0	0	1	4	3	CDL-113-abuirunt	et pro casa quem abuirunt in loco Lupelia
+habito	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-636-abitare	ut ego vel meis heredes in ipsa casa residere et abitare debeamus
+habito	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-687-abitare	ut nos vel nostris heredes in ipsa casa resedere et abitare debeamus
+habito	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	2	CDL-138-hauitare	haueas potestatem nulla femina adducendi que iui hauitare diueas
+habito		0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-452-avitavero	et [si] ille homo, qui in ipsa casa resederit, vel si ego ibi avitavero
+habito	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-535-debeamus	ut nos vel nostris heredes in ipsa casa residere et abitare debeamus
+habito	praesumo	0	0	0	0	0	0	0	0	0	0	0	0	0	3	CDL-30-presummat	nec nullus sacerdus ibidem habitare presummat
+habito	praesumo	0	0	0	0	0	0	0	0	0	0	0	0	0	3	CDL-178-presumat	nullus sacerdos iuidem auitare presumat
+habito		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-202-habitavit	casa ipsa ubi Dammianus presbiter socero meo habitavit
+illuceo		0	0	0	1	0	0	0	1	0	0	0	0	2	3	CDL-175-inluxerit	dum cunctis inluxerit dies ille tremendus
+impedio		1	0	0	1	0	0	0	0	1	0	0	0	2	3	MED-385-impedit	brevem istam mihi non impedit, quia veritas non fuit
+impedio		1	0	0	1	0	0	0	0	1	0	0	0	2	3	MED-397-impedit	livello isto quas tu ostendis ad parte sancti Martini nulla impedit
+impedio		1	0	0	1	0	0	0	0	1	0	0	0	2	3	MED-309-impedit	breve ista mihi non impedit, quia veritas non fuit
+infero	possum	1	1	1	1	0	0	0	0	0	1	0	0	3	3	CDT-15-possit	nullus de heredes, proheredes nostrus contra hanc cartulam in aliquo possit inferi molestia
+ingredior		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-639-ingressus	anno imperii eius postquam in Italia ingressus est vigensimo quinto
+inquiro		1	0	0	1	0	0	1	1	1	1	0	0	5	3	MED-742-inquisivi	de basilicam ipsam edificatam ... inquisivi pars monasterii Sexto
+instituo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-156-instituo	uolo adque instituo, dono et offero seu trado Deo et tibi eclesia sancti Martini
+intentiono	quaero	1	0	0	1	0	0	1	1	0	1	0	0	4	1	MED-370-intentionare	ut si nos de suprascripta mea venditio in alico vobis intentionare aut retraggere quesierimus
+intentiono	quaero	1	0	0	1	0	0	1	1	0	1	0	0	4	1	MED-673-quesierimus	si ... intentionare aut retolli vel subtragi quesierimus per quolibet ingenium nos aut ille homo
+intentiono		1	0	0	1	0	0	1	1	0	1	0	0	4	1	MED-567-intentionaverimus	si tibi Leoprando presbitero vel ad successoribus tuis ... intentionaverimus aut retolli quesierimus
+intentiono		1	0	0	1	0	0	1	1	0	1	0	0	4	1	MED-448-intentionaverimus	si tibi Iohanne presbiter ... intentionaverimus aut subtraxerimus 
+intentiono	quaero	1	1	1	1	0	0	1	1	0	1	0	1	6	3	MED-291-quesierit	et si quiscumque homo absque nostro et vestro conludio vobis eam intentionare aut subtragere quesierit
+interrogo		1	1	1	1	0	0	1	1	1	1	0	1	7	3	MED-309-interrogaverat	et paululum post infra igitur Rachinardus ... interrogaverat eumdem Alpulum
+intersum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-244-interfui	ego Tacholfus clericus interfui
+intersum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-564-interfui	Paulus notarius domni imperatoris interfui
+intersum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-536-interfui	ego Anspald clericus, sicut de me supra legitus, interfui
+introeo	possum	0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-187-potuerit	et si quicumque homo vobis in ipso monasterio ... in qualivet portionem introire potuerit
+invito	volo	1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-30-uoluerint	nullus sacerdus ibidem habitare presummat, nisi quem ipsas ancillas Dei inuitare uoluerint
+invito	volo	1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-178-uoluerint	nullus sacerdos ... auitare presumat, nisi quem ... Gumpranda aut filias meas inuitare uoluerint
+iudico	volo	1	1	1	1	1	0	1	1	0	1	0	0	6	3	CDL-144-uolueris	omnia ... quem tu ... iudicare uel facere uolueris tu ... uel posterus tuo
+jubeo		1	1	1	1	0	0	1	1	0	1	0	0	5	2	CDL-APPENDICE-iubeatis	set tantum iubeatis eos a mercedem dominorum nostrorum regum inquirere
+judico		1	0	0	1	1	1	1	1	0	1	0	0	6	1	CDL-255-iudicaremus	et qualiter iudicaremus inter nos et ipsi, nostrum emitteremus iudicatum 
+judico		1	0	0	1	1	1	1	1	0	1	0	0	6	1	MED-253-iudicaverimus	tam toti insimul quam et unum de nobis ... in quod iudicaverimus de res eius
+judico		1	0	0	1	1	1	1	1	1	1	0	0	7	3	CDL-287-iudicat	sicut pater iudicat, in eo moderamen persistat
+juro		1	0	0	1	1	0	1	1	1	1	0	0	6	3	CDL-APPENDICE-iurauerunt	et qualiter iudicauimus, ante nos exinde iurauerunt
+laboro	debeo	1	1	1	1	0	0	0	1	0	1	1	1	6	1	MED-551-laborare	ut ego, heredes meis ... res bene laborare et gubernare seo meliorare debeamus
+laboro	debeo	1	1	1	1	0	0	0	1	0	1	1	1	6	1	MED-796-laborare	ut nos vel nostris heredibus ... tam ipsa casa quam et predictas res ... bene laborare et gubernare seo meliorare debeamus
+laboro	debeo	1	1	1	1	0	0	0	1	0	1	1	1	6	1	CDL-85-lauorare	cunsuetudo ipseius case ... perexoluere diueam ... et ipsa suprascripta casa et res bene lauorare et guuernare
+laboro	debeo	1	1	1	1	0	0	0	1	0	1	1	1	6	1	CDT-63-lavorare	et ipsa casa ..... ego bene lavorare et excolere deveam
+laboro	debeo	1	1	1	1	0	0	0	1	0	1	1	1	6	1	MED-685-lavorare	tam ipsa casa quam et res bene lavorare et gubernare seo meliorare debeamus
+laboro	debeo	1	1	1	1	0	0	0	1	0	1	1	1	6	1	MED-711-debeamus	predicta casa et res bene laborare et ghubernare seo meliorare debeamus
+lego		1	1	1	1	1	0	1	1	1	1	0	1	8	1	MED-530-legi	ego qui supra Protasius notarius autentico illo vidi et legi unde hanc exemplar facta est
+licet		0	0	0	0	0	0	0	0	0	0	0	0	0	3	CDL-266-liceat	et nulli liceat nolle quod semel uoluet
+loquor		0	0	0	1	0	0	1	1	1	1	0	0	5	3	CDL-178-loquitur	unde Dominus per semetipsum loquitur dicens
+melioro	debeo	1	1	1	1	0	0	0	1	0	1	1	1	6	1	MED-461-meliorare	ut ego vel heredes meus ... casa et res ipsa per singulos annos bene lavorare et gubernare seo meliorare debeamus
+melioro	debeo	1	1	1	1	0	0	0	1	0	1	1	1	6	1	MED-782-meliorare	ut ego vel meis heredes ... ipsa casa quam et predicta res bene lavorare et gubernare seo meliorare debeamus
+melioro		1	1	1	1	0	0	1	0	0	1	1	1	6	1	MED-318-melioraverimus	si ... eas in omnibus non lavoraverimus et melioraverimus
+memoro		1	1	1	0	0	0	0	1	1	0	0	0	3	1	CDL-61-memorauimus	et aduc quod memoriter memorauimus
+migro		0	0	0	1	1	0	0	1	0	0	0	0	3	3	CDL-24-migraueret	si ipse abbas custus de hac luce migraueret
+migro		0	0	0	1	1	0	0	1	0	0	0	0	3	3	CDL-28-migraueret	quid si ... et abbas qui iniui constitutus fueret de hac luce migraueret
+mino	quaero	1	1	1	1	0	0	1	1	0	1	0	0	5	1	MED-477-minare	si ... nos tibi in aliquo superimponere aud de ipsa casa et rebus foris minare aud expellere quesierimus
+minuo	quaero	1	1	1	1	0	0	1	1	0	1	1	1	7	1	CDL-144-quesierimu	si ... nus super suprascripto Cellolo uel meus herides ... ipsa iam dicta re suptragere at minuire quesierimu
+mitto		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-APPENDICE-misit	presenti ante nos ipse Britto misit ea in focum et ibi arsit
+mitto		1	1	1	1	1	0	1	1	0	1	0	1	7	3	MED-595-mitterent	inter se utrumque Wichelmo et Teufrido advocato diversas mitterent rationes
+molesto	praesumo	0	0	0	1	0	0	1	1	0	1	0	0	4	1	CDL-134-presumserimus	si ... cuntra hanc cartulam ... in alicho molestare presumserimus [nos] uel heridis nostris
+molesto	debeo	1	1	1	1	0	0	0	0	0	1	0	1	4	3	CDL-62-debeas	et numquam ego Filimari aut nullo erede meo uos de ipsas res in alico molestare debeas
+molesto	possum	1	1	1	1	0	0	0	0	0	1	0	1	4	3	MED-172-possit	ut neque ego qui supra offertor neque meis heredibus neque nullo homine ... possit molestare aut resubtragere mea offerta
+molestor	praesumo	1	1	1	1	0	0	1	0	0	1	0	1	5	3	CDL-35-praesumat	et numquam nos uel posterus noster te de hanc dicto loco molestari praesumat
+oboedio	nolo	0	0	0	0	0	0	1	0	0	1	0	0	2	1	CDT-14-noluerimus	et si tibi noluerimus ita obedire
+oboedio	volo	0	0	0	0	0	0	1	1	0	1	0	0	3	1	CDT-14-obedire	si tibi obedire voluerimus
+observo		1	1	1	1	1	1	1	1	0	1	1	1	9	3	CDL-267-obserueat	antequam nus repentina obserueat mortis
+obvenio		0	0	0	0	1	0	0	1	1	0	0	0	3	3	CDT-23-obvine	mihi ipsas casas vel ris da quondam Cuntiperti consobrino tuo obvine
+obvenio		0	0	0	0	1	0	0	0	0	0	0	0	1	3	CDT-23-obvinet	Et dedit tivi tris modiorum de terra ad vocabulo Quercitu , quem mihi da Alparine obvinet , et similiter dedi tivi unu pezzo de terra subtus casa tua Radiperti , quem mihi da ipso Alparine obvinet .
+occupo		1	1	1	1	1	1	0	1	0	1	1	1	8	3	CDL-171-occupauerit	et si me mors occupauerit
+occurro		0	0	0	1	1	1	0	1	0	0	0	0	4	3	CDT-12-hoccurra	qualiter mihi finis mortis hoccurra [= occurrat] non iscio
+offero		1	1	1	1	0	0	1	1	1	1	0	1	7	1	MED-201-offero	quia per hanc cartulam pro anime meae remedium offero Deo et tibi ecclesie sancti Thomati apostoli ... casa mea illa
+offero		1	1	1	1	0	0	1	1	1	1	0	0	6	1	CDL-232-offero	quia per hanc cartulam offero Deo et tibi suprascriptae Dei ecclesiae sancti Fridiani omnem adquisitum meum
+offero		1	1	1	1	0	0	1	1	1	1	0	1	7	1	CDL-24-offero	ego Uualtari ecclesie beati sancti Siluestri offero in integrum possedendum clausura in Colliario
+offero		1	1	1	1	0	0	1	1	1	1	0	1	7	1	MED-529-offero	pro anima eius remedium offero Deo et tibi ecclesie sancti Michael ... portionem de ecclesia sancti Bartholomei
+offero		1	1	1	1	0	0	1	1	1	1	0	1	7	1	CDL-222-offerimus	nos qui supra Aliperto et Rotperto presbitero offerimus Deo et tibi ecclesia Dei et beati sancti Martini ... prefata ecclesia nostra
+offero		1	1	1	1	0	0	1	1	1	1	0	0	6	1	CDL-34-offerimus	et offerimus uobis beati sancti Petri et sancti Martini, sancti Quirici quidquid ad mano mea habere uideor
+offero		1	1	1	1	0	0	1	1	1	1	0	1	7	1	CDL-31-oferrimus	et parbulum munusculum iuidem oferrimus
+offero		1	1	1	1	0	0	1	1	1	1	0	1	7	3	MED-524-offeruit	quas ipsius ecclesie offeruit ipse genitore nostro
+offero		1	1	1	1	0	0	1	1	1	1	0	1	7	3	MED-595-offeruerunt	Teutperto presbitero et Rigniperto clerico offeruerunt ... interdicta ecclesia sancti Grecorii
+ordino	debeo	1	1	1	1	1	1	0	1	0	1	0	1	7	1	MED-231-ordinare	cum consensu episcopi eum ordinare debeam
+ordino		1	1	1	1	1	1	1	1	0	1	0	0	7	3	CDL-124-ordinaueret	post decesso Atoni uel quem iui Ato ordinaueret
+ordino		1	1	1	1	1	1	1	1	0	1	0	1	8	3	MED-186-ordinaverit	ad illo subcessore quod ibidem ordinaverit
+oro	debeo	1	0	0	1	0	0	0	1	0	1	0	0	3	3	CDL-24-diueas	ut pro meis peccatis sacerdus qui iniui ordinatus est aut fueret hora<re> diueas
+peioro	quaero	1	1	1	1	0	0	1	1	0	1	1	1	7	1	MED-518-peiorare	si nos ... suprascripta res relaxare vel peiorare quesierimus
+percurro		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-418-percurrit	una anfora de vino bono sine aqua ad tale mensura quale in suprascripto loco percurrit
+perdo	debeo	1	1	1	1	1	0	0	1	0	0	0	1	5	3	MED-202-deberet	quod ipsi filio meo per sua culpa ecclesia et res ipsa perdere deberet
+permaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-213-permanere	firma et stabilis debeat permanere
+permaneo	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-136-permanere	ut, qualiter superibus decriui et ad me ad ipsa eclesia offertum est, omni tempore firmum et istauilitum diueas permanere
+permaneo	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-211-diueam	ipse mea offerationem ferma et istabile diueam permanire
+permaneo		0	0	0	0	0	0	0	0	0	0	0	0	0	1	CDL-147-permansero	si quandoque tempore ... in omnibus non permansero in tua uolontate
+permaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-306-possumus	cunctis futuris temporibus in eo ordine quod superius legitur firma et stavile permaneat
+permaneo	valeo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-40-ualeat	ipse sanctus monasterio et omnes res iuidem pertenente in tua defensionem et dominio ualeat permanere
+permaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-420-permaneat	in predicto ordine in sua permaneat firmitate
+permaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-372-permaneat	suprascriptas casas ... permaneat semper in potestate predicte Dei ecclesie
+permaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-177-permaneat	omni in tempore in vos ipse mea donatio firme et istavile permaneat
+permaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-238-permaneat	ut ab hodierna die prefata portionem ... permaneat in potestatem sepedicte Dei ecclesie
+permaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-58-permaneat	ut ipsa donationem nostra firma et stauilita permaneat
+permaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-99-permaneat	et hanc manus in suo rouore permaneat
+permitto		1	0	0	1	0	0	0	1	1	0	0	0	3	3	CDL-28-permiset	ut uirtus permiset
+persolvo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-519-persolvere	ut ... censum dare et persolvere debeam oleo ad luminaria
+persolvo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	2	CDL-248-dibeatis	ut per singolos annos persoluere dibeatis ...
+persolvo		1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-131-persoluant	eorum filiis uel nepotes ... per uno queque anno persoluant redditum case
+pertineo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-202-pertenuissem	ipse bassilica sancti Petri vel res ... aliquando ecclesie sancti Martini ... pertenuissem [= pertinuissent]
+pertineo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-67-pertenet	omnia quidquid ad ipsa suprascripta casa Marechis modo pertenet
+pertineo		0	0	0	0	0	0	0	0	1	0	0	0	1	3	CDL-182-pertenuit	nam per nullo ingenio pertenuit eclesie sancti Cassiani
+pertineo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-567-perteneunt	hec predicte duo petie de terra qualiter ibidem eidem ecclesie sancti Fridiani perteneunt
+pervenio	valeo	0	0	0	1	1	0	1	1	0	1	0	0	5	2	CDT-14-valeas	qualiter ad sacerdotii honorem valeas pervenire Deo largiente
+placeo		0	0	0	0	1	0	0	1	1	0	0	0	3	3	CDL-240-placuit	quia placuit adque conuenit inter me et te
+planto		1	1	1	1	1	0	1	1	1	1	1	1	9	1	MED-751-plantavi	una petia de vinea quas ego ipsi plantavi et propaginavi
+pono	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	2	MED-437-debeatis	ut tu vel tuis heredes ... hominem in prefata casa ponere debeatis
+pono		1	1	1	1	1	0	0	1	0	0	0	0	4	3	MED-231-posuerit	et si episcopo huius civitatis neglegentiam posuerit faciendo
+possideo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-202-possidde	quantu ipsi Dammianus presbitero ad manus sua abuet aut possidde
+possideo		1	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-61-possedeas	ita ut ab hodierna dies securiter possedeas tu uel filiis tuis
+possideo		1	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-94-possedeas	sicot supra legitor, securiter possedeas ipsa sancta Dei uirtutem
+possideo	debeo	1	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-145-debeat	ipsa Dei eclesia uel eius custos inuiolabiliter possedere debeat
+possideo		1	1	1	0	0	0	0	1	0	0	0	1	3	3	CDL-90-possedeat	medietate de ipsa terrola possedeat ipsa sancta Dei uertute
+possideo		1	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-73-possedeat	siquod superius legitor, in eodem tenure possedeat ipsa sancta uirtutem
+possum		1	0	0	0	0	0	0	1	0	0	0	0	1	2	MED-673-potueritis	per vos ipsis eas vobis defendere debeatis ... quomodo iuxta legem per melius potueritis
+praecipio		0	0	0	1	1	1	1	1	1	1	0	0	7	3	MED-385-preceperat	et ipse Rachinardus preceperat Arnolfi vicedomino
+praecipio		0	0	0	1	1	1	1	1	1	1	0	0	7	3	MED-309-preceperat	et ipse Rachinardus preceperat Harnolfo
+praeparo	possum	1	0	0	1	1	0	1	1	0	1	1	1	7	3	CDL-118-poteest	non alius thensaru non est talis quili est illa aeterna uita quod nobis Dominus preparare poteest
+praevideo		1	1	1	1	0	0	1	1	1	1	0	0	6	1	MED-266-dare	per hanc mee dotalis pagina dare et offerre prevideo in ipso sancto loco in primis fundamentum ipsum
+praevideo		1	1	1	1	0	0	1	1	1	1	0	0	6	1	CDT-15-confirmare	elegimus et confirmare previdimus in ipso sancto et veneravile loco ...
+praevideo		1	1	1	1	0	0	1	1	1	1	0	0	6	1	MED-266-offerre	offerre prevideo Deo et tibi predicte ecclesie sancti Petri due case mee
+praevideo		1	1	1	0	0	0	0	1	1	0	0	0	3	1	CDL-194-preuidi	ego Rixsolfus indignus presbiter preuidi Dei timore et remedium anime mee et euangelica preceptas
+praevideo		1	1	1	1	0	0	1	1	1	1	0	0	6	1	CDL-238-preuideo	proinde per hanc cartulam repromittere preuideo ego qui supra Ato
+procreo		1	1	1	1	0	0	1	1	0	1	1	0	6	1	CDL-248-procreauero	si mihi Dominus respicere dignatus fuerint et filios aut filias procreauero
+profiteor		1	1	1	1	1	1	1	1	1	1	0	0	8	3	MED-564-professi	dum ambe partes nullum testem propter longinquitatem inde dare professi sunt
+profiteor		1	1	1	1	1	1	1	1	1	1	0	0	8	3	CDT-27-profiteor	unde profiteor me qui supra vinditor suscepisse et accepit ... auri solidos trigenta
+promitto		0	0	0	1	0	1	1	1	1	1	0	0	6	1	CDT-43-promittimus	ita et ego qui supra Raghipertus vel meis filiis in omnia ... permanere promittimus
+promitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-716-excolere	ut ego ... casam et rebus bene excolere et gubernare promitto
+promitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-452-promitto	promitto ego Auriprando componere tibi Astruda abbatissa solidos viginti
+promitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	CDL-173-promitto	et omnes res eidem eclesie pertenente in omnibus meliorare promitto
+promitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	CDT-86-promitto	conponere promitto me ego ... vel posteris nostris ... solidos numero quinquagenta
+promitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	CDT-44-promittimus	nus vel nostris heredes duplum pretium et rei meliorata ... reddituri esse promittimus
+recedo		0	0	0	1	1	1	0	1	0	0	0	0	4	3	MED-238-recessisse	dum ... ipse Gumpertus de hoc seculo recessisse
+recedo		0	0	0	1	1	1	0	1	0	0	0	0	4	3	CDL-138-recesseret	et si qualiter Deo fuerit preceptione et unus aut plures de nus de seculo recesseret
+recedo		0	0	0	1	1	1	0	1	0	0	0	0	4	3	CDL-186-recessissit	et sicut Redemturi meo fuit iussionem et ipse filio meo de seculo recessissit
+recipio	debeo	1	1	1	1	1	0	0	1	0	0	0	1	5	2	MED-424-recipere	post fructum de ipsa res recollecto vos eos recipere debeatis
+recipio	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-409-recipere	nos vos recipere et gubernare debeamus iuxta possivilitate
+recipio	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-469-recipere	nos vos recipere et gubernare debeamus
+recipio		1	0	0	1	1	0	0	1	0	0	0	0	3	1	MED-515-recepissem	qualiter melioratum cambium dedi a parte suprascripte ecclesie quam recepissem
+recipio	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-621-debeamus	vos vel misso vestro ibi ... recipere et gubernare debeamus
+recipio		1	1	1	1	1	0	0	1	1	0	0	1	6	3	CDL-113-recipet	pro casa quem abuirunt in loco Lupelia ... recipet eclesia sancti Martini casa Uuilluli
+recordor		1	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-309-recordati	qui omnes unanimiter recordati sunt dicentes
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-800-reddere	de quinto in quinto anno vobis reddere debeamus uno montone bono
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-770-reddere	censum reddere debeamus hic Luca in ipso domo argentum denarios bonos expendibiles numero viginti quattuor
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-684-reddere	censum reddere debeamus argentum denarios bonos expendibiles numero quindecim
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-387-reddere	censum ego tibi reddere et dare debeam ..., id est, unum congium de oleo
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	0	5	3	MED-178-reddere	exinde reddere diveas medietate de omne usufructum
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-639-reddere	reddere et dare debeam ... pisces duos gubitales
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-472-debeam	censum ... reddere debeam in kalendas maias quadraginta denarios bonos
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	2	MED-413-debeatis	tu et ille alie duo persone ... reddere debeatis semper in mense magio argentum bonos denarios
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	2	MED-252-diveatis	nobis et retdere nobis diveatis per singulis annis duo anforas vino puro
+reddo		1	1	1	1	1	0	1	1	0	1	0	1	7	1	CDL-49-reddamus	si uolueris tu Mauricius, ipsa terra nos eam tiui sine aliqua mora ipsa terra reddamus
+reddo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	MED-675-debeamus	censum reddere debeamus ... argentum solidos viginti
+reddo		1	1	1	1	1	0	1	0	0	1	0	1	6	1	CDL-285-redderimus	si ego ... uel ipsi predicti nepotes mei ... ipsum solidum ... non redderimus
+reddo		1	1	1	1	1	0	1	0	0	1	0	1	6	1	MED-365-reddiderimus	si ... suprascriptum censum singulis annis in iam dicto constituto vobis non reddiderimus
+reddo		1	0	0	1	0	0	0	1	0	0	0	0	2	3	CDL-117-reddat	centuplum reddat uobis in uita eterna
+reddo		1	1	1	1	1	0	1	1	0	1	0	0	6	3	CDL-APPENDICE-reddidissent	et dum testimonia ipsa et ipsum notarium taliter testimonium reddidissent
+reddo	volo	1	1	1	1	0	0	1	1	0	1	0	1	6	3	CDL-276-uoluerint	et si filii mei praedictum oleum in ipsa ecclesia reddere uoluerint
+refero		1	1	1	1	1	0	1	1	0	1	0	1	7	3	MED-216-retulerit	si ... nobis pars curtis regie ipsam casam et rem retulerit
+reintroeo	debeo	0	0	0	1	1	0	0	1	0	1	0	0	4	3	MED-384-reintroire	ut unusquisque reintroire et abere debeat cambium suum
+reintroeo	debeo	0	0	0	1	1	0	0	1	0	1	0	0	4	3	MED-497-debeat	tunc unus alterius in suum cambium reintroire debeat
+relaxo		1	1	1	1	1	0	1	1	0	1	0	0	6	3	CDL-171-relaxare	ut mihi Domino pondere, peccata relaxare
+relaxo		1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-520-relaxaverimus	si iam dicta vinea relaxaverimus
+relaxo		1	1	1	1	1	0	1	1	0	1	0	1	7	1	MED-804-relaxaverimus	si suprascripto molino seo terra quas nobis dedisti relaxaverimus
+remaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-214-remansere	et si ... res mea a me iterum iniudicata uel non data remansere
+remaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-214-remansere	omnis terre mei, quante ad me hic circa ciuitatem ista non iudicate remansere
+remaneo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-40-remanserit	familiola sancti Michahili qui post me remanserit
+repromitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-158-Reprometto	reprometto et manus mea facio ego Lupicinulo ... tibi Gunduald presbitero ... ut resedire prometto
+repromitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-180-Repromitto	repromitto ego Lampert presbitero tivi iam dicto Urse clerico ut te guvernare diveas
+repromitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-398-repromitto	repromitto ego qui supra Gundulu vel meus ... ut si ... non adimpleverimus
+repromitto		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-369-repromittimus	repromittimus nos vobis componere solidos denarios triginta
+reservo		1	1	1	1	1	0	1	1	1	1	0	1	8	2	MED-497-reservasti	terra ipsius ecclesie sancti Fridiani quas tibi reservasti
+reservo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-70-reserbauimus	medietate nobis reserbauimus, quia iam antea deuisum fuet inter duo fratri
+reservo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-267-reseruauet	uita [= vitae] tempore [= temporis] et mortis omnipotens Deus sue reseruauet notitie
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-461-residde	in ipsa casa et res ubi antea ipsi genitor meus residde et ego ipsi usque modo avitavit
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-202-residde	quia ipsi Dammianus presbitero in ipsa basilica nostra sancti Petri residde
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-468-residde	in unam casam massaricia ... ubi antea residde Benedictulo
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-372-resede	in terra qui pertenit de casa nostra ubi resede Achipertulo
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-280-reside	una ca<sa> mea quem haure uisum sum prope eclesia sancti Pauli ubi pater tuo reside antea
+resideo	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-442-resedere	ut ego ... in suprascripta casa abitare et resedere debeam
+resideo	volo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-89-volueris	et si filiis tui masculinis volueris [= voluerint] resederem ad suprascripta ordinazionem
+resideo	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-762-debeamus	ut nos vel nostri heredibus in suprascripta casa residere et abitare debeamus
+resideo	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-714-debeamus	nos vel nostris heredibus sive Atrifuso germano nostro vel eius heredes ... in suprascriptis casis et rebus residere et abitare debeamus
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-281-residdet	casa illa sancti Angeli in Monte ubi residdet quondam Dammiano presbitero
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-694-resedet	una ex ipse est in Conflenti qui regitur per Dominico, illa alia est in Furnulo ubi resedet Petrulo
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-273-residet	in ipsa casa ubi ipsi genitor tuus antea residet
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-238-residet	in casa ecclesiae uestrae in loco Lusciano ubi antea residet Lucerulo germanus Taniperti actori uestri
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-149-residet	casa ... ubi residet Magnulo massarius noster
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-275-resedit	in una casa suprascripte ecclesie vestre ... ubi antea quondam Pipulus resedit
+resideo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-264-residit	in casa ... ubi residit quondam Pertulo
+resideo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-131-resedierit	per uno queque anno persoluant redditum case ubi resedierit, sicut est consuetudo
+resideor		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-589-residdetur	id est casa et res mea illa ... ubi residdetur Bonulo
+respicio	dignor	0	0	0	1	0	0	1	1	1	1	0	0	5	3	CDL-248-dignatus	si mihi Dominus respicere dignatus fuerint et filios aut filias procreauero
+respondeo		1	0	0	1	0	0	1	1	1	1	0	0	5	3	MED-202-respondebat	respondebat ipsi Iohanne episcopus cum Fratello advocato suo: ...
+respondeo		1	0	0	1	0	0	1	1	1	1	0	0	5	3	MED-564-Respondebat	respondebat ipse Andreas: ...
+retollo	quaero	1	0	0	1	0	0	1	1	0	1	0	0	4	1	MED-487-quesierimus	si tibi Petrus episcopo ... intentionaverimus aut retolli quesierimus in aliquo de suprascripta mea venditio
+revorto		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-202-reversi	et dum utraque partes in constituto reversi fuerunt
+revorto		0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-397-reversi	dum in constituto ambas partes ante nos reversi fuisserunt in iudicio
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-283-scribere	et duas inter nos cartulas ... Austripertum presbiterum scribere rogaui
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-365-scribere	duas cartulas Richiprandum notarium sanctae ecclesie de parte mea scribere rogavi
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-709-scribere	et duas inter nobis cartulas Rachifonsum notarium scribere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-286-iscriuere	et Prandulo iscriuere rogaui 
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-103-rogaui	et Rotpert quamuis indignu presbiter iscriuere rogaui
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-244-rogaui	et pro confirmatione Austripertum clericum scribere rogaui
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-286-rogaui	et Prandulo iscriuere rogaui
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-147-rogaui	et pro confirmationem Lamipert scriuere rogaui
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-240-rogavi	et Gumpertum presbiterum scribere rogavi
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-213-rogavi	quam vero hanc cartulam offersionis ... Filippum presbiterum scribere rogavi
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-714-rogavi	et duas inter nos cartulas Adalfridi notarium scribere rogavi
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-365-rogavi	duas cartulas Richiprandum notarium sanctae ecclesie de parte mea scribere rogavi
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-278-rogavi	et pro confirmationem Rachiprandum subdiaconum scribere rogavi
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-192-rogauimus	quem enim promissionis nostre cartulam Firmo notarium ... scriuere rogauimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-710-rogavimus	et duas inter nos cartulas Adalfridi notarium scribere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDT-41-rogavimus	quam viro cartula vinditionis ... Arifridum notarium scrivere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-751-rogavimus	et duas inter nos cartulas Adalfridi notarium scribere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-252-rogavimus	et Rachipert presbitero ambas partis scrivere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-582-rogavimus	et duas inter nos cartulas Teufridi notarium scribere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-384-rogavimus	unde inter nos duas cartulas Altifonsus notarius scrivere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-725-rogavimus	et duas inter nos cartulas Adalfridi notarium scribere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	MED-486-rogavimus	unde inter nos duas cartulas Gundelprandum notarium scribere rogavimus
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-469-rogavet	signum manus Gumprandi qui hanc cartulam fieri rogavet
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	CDL-272-rogauit	signum manus Ursiperti clerici qui hanc cartulam fieri rogauit
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	CDL-68-rogauit	signum manus Petto uiri deuoti uenditori qui hanc cartula uenditionis fiere rogauit
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-460-rogavit	signum manus Ghisperti clerici qui hanc cartula fieri rogavit
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-551-rogavit	signum manus Anselmi qui hanc libellum fieri rogavit
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-372-rogavit	signum manus Mone coniugi eius qui similiter fieri rogavit
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	MED-805-rogavit	signum manus Chuneradi qui hanc cartula fieri rogavit
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	CDT-23-rogaverunt	hanc cartulam ambas parti fieri rogaverunt
+rogo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	CDL-24-rogauirunt	signum manus Gudiscalco uiri deuoti qui hanc dotis cartula fiere rogauirunt
+scio		1	1	1	0	0	0	0	1	1	0	0	1	4	1	MED-742-scio	scio basilicam ipsam in honore sancti Quirici in eodem loco Armae
+scribo		1	0	0	1	1	0	1	0	1	1	0	0	5	1	CDL-154-scribsi	ex autentico breuium exemplaui fideliter, nec plus addedi nec menime scribsi
+scribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-85-iscripsi	ego Perteradu clericus ... iscripsi, compleui, relegi et dedi
+scribo		1	1	1	1	1	0	1	1	1	1	1	1	9	3	CDL-208-scripsit	et ecce breue scriptum ... quam Osprandus diaconus scripsit per eius dictatum
+servio	nolo	0	0	0	1	0	0	1	0	0	1	0	0	3	3	CDL-261-nuluere	et si forsitans ipsi filii mei ad ipsa ecclesia seruire nuluere
+servio	volo	0	0	0	1	0	0	1	1	0	1	0	0	4	3	CDL-31-seruire	alii filii nostri qui Deo seruire uolueret
+servio	debeo	0	0	0	1	0	0	1	1	0	1	0	0	4	3	CDL-31-deueas	ut filii nostri ibidem in ipso monasterio Domino seruire deueas
+servio	nolo	0	0	0	1	0	0	1	0	0	1	0	0	3	3	CDL-204-nolueret	et si forsitans nullus de heredibus meis, ut supra dixi, in ipsa ecclesia seruire nolueret
+servio	volo	0	0	0	1	0	0	1	1	0	1	0	0	4	3	CDL-165-uoluerit	quis de heredibus meis tonso capite casto et recto moderamine ad ipsa eclesia seruire uoluerit
+spondeo		1	1	1	1	0	1	1	0	1	1	0	0	6	1	CDL-205-spondimus	numquam ego qui supra Ausulo nec filius heredes meus atuersus ipsa eclesia ... spondimus esset uenturi
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-326-componere	tunc spondimus nos vobis componere solidos mille
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-587-componere	spondeo cum meis heredes componere tibi ... penam argentum solidos quingentos
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-389-componere	spondimus cum nostris heredes componere tibi vel a tuis heredes prefatos duodecim solidos
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	CDL-272-spondeo	spondeo ego qui supra Ursipertus clericus ... conponere auri soledos numero quinquaginta
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-513-spondeo	spondeo ego qui supra Metusiano cum meis heredes componere ... argentum solidos centum
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-763-spondeo	spondeo ego qui supra Marcho ... penam argentum solidos viginti
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-744-spondeo	spondeo ego qui supra Cunimundo ... penam argentum solidos septuaginta
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	CDL-285-spondeo	spondeo me ... conponere episcopo illo ... poenam auri solidos numero uiginti
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-516-spondeo	spondeo ego qui supra Teudipertus ... penam argentum solidos duocentos
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-477-spondeo	spondeo me ego Alpertu clericus ... pena numerum argentum soledos quinquaginta
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-228-spondeo	spondeo ... componere iam dicta terra quod tibi in viganeum dedit dupla ferquide
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-639-spondeo	spondeo ego qui supra Rimperto componere ... penam argentum solidos viginti
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	CDL-85-ispundeo	reprometto et ispundeo atque manus meam faceo ... ut in ipsa casa ... resedire diueam
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-384-spondimus	nos vel ille homo ... spondimus cum nostris heredibus componere tibi vel successoribus tuis predicta terra
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-687-spondimus	spondimus nos Ghisalmari et Adalprando germani ... penam argentum solidos viginti
+spondeo		1	1	1	1	0	1	1	1	1	1	0	0	7	1	MED-195-ispundimus	ispundimus componere ad illo homine cui cartula ista dederitis ad exigendum auri solidos nomero centum
+subscribo		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-781-subscripsi	Filuartus schavinus subscripsi
+subscribo		0	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-544-subscripsi	... Luciprando presbiter in anc cartula a me facta manu mea subscripsi
+subscribo		0	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-594-subscripsi	... Fraimanno rogatus ab Aloni me teste subscripsi
+subscribo		0	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-594-subscripsi	... Fraiperto rogatus ab Aloni me teste subscripsi
+subscribo		0	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-56-suscripsi	Barsucis uir clarissimus ciuis Lunensis ... testis suscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDT-10-subscribsi	ego Cunto clericus rogitus ad Walderamu me testi subscribsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-390-subscripsi	ego Altifunsus notarius rogatus ad Gumpaldo clerico me teste subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-401-subscripsi	ego Taito in anc cartula ad me facta manus mea subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-773-subscripsi	ego Eriteo rogatus a Guntelmo me teste subscripsi et pretio dante vidi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-93-subscripsi	ego Liutpertus, qui et Centulus, archidiacunus in unc testamentu a me factu manu mea subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-634-subscripsi	ego Andreas notarius et schabino subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-174-subscripsi	ego Perideus testis subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-795-subscripsi	ego Teutpaldus notarius rogatus ad Audiprando me teste subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-206-subscripsi	ego Deusdedit presbiter in hanc cartulam a me facta manus mea subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-567-subscripsi	ego Berengarius gratia Dei episcopus subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-77-subscripsi	ego Filicausu presuiter in ac donationis cartula a me facta propria manus mea subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-187-subscripsi	ego Ildipertus testis subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-397-subscripsi	ego Aipo lociservator in unc iudicato ad nos factu manus mea subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	MED-708-subscripsi	ego Teufridi notarius rogatus a Rodilando me teste subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-239-subscripsi	ego Leuteri clericus rogatus a Tanulo et Teudulo et Teutper germanis in hanc cartula me teste subscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDL-221-supscripsi	ego Perisundus filius Sunderadi rogatus a Gausfrid et Gausperga conguge eius in hac cartula me testi supscripsi
+subscribo		1	0	0	1	1	0	1	1	1	1	0	0	6	1	CDT-41-supscripsi	ego Graso rogitu ad Anserada et da iugale eius me testi supscripsi
+subtraho	possum	1	1	1	1	1	0	1	0	0	1	0	1	6	3	CDL-261-subtragere	numquam me posteris que meus heredis ipsa res meas possit molestare aut subtragere da ipsa sancta ecclesia uel eius seruientibus
+subtraho	praesumo	1	1	1	1	1	0	1	0	0	1	0	1	6	1	CDL-202-presumam	numquam per me nec per nullo homine ipsa Dei eclesia ... de uestra potestate et ordinatione subtragere presumam
+subtraho	quaero	1	0	0	1	0	0	1	1	0	1	0	0	4	1	MED-549-quesierimus	si nos vobis in aliquo de quas supra tibi in commotationem dedi intentionaverimus aut subtragi quesierimus
+succedo	possum	1	0	0	1	0	0	0	1	0	0	0	0	2	1	CDT-32-suscedere	si coco tempore in sorte de mater Prandulo et Guntiperto ligibo suscedere potuero
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-40-sid	ut ... ipso sancto Dei monasterio beati Michaheli ... ad gubernandum et regendo in tua sid potestatem
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-99-sid	ut omnia ... in tua sid potestatem iudicandi aut faciendi qualiter uolueris
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-261-fuere	et si eorum utilitas fuere
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-15-fuere	et si eius fuere volumptas recipiendum da ipsus abbas
+sum	debeo	0	0	0	0	0	0	0	0	1	0	0	0	1	1	CDT-45-esse	non faciat Deus quod genitor noster servus fuisset sancte Marie nec nos de personas nostras servi esse devemus
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-309-fui	ego Cristofanus presbiter ividem fui
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-89-essem	si ...  nobis cumprovatum fueris antem nostros iudicem quod meam essem culpam
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-801-sum	manifestu sum ego Ghisperto avitator hic Luca quia tu Hieremias ... dedisti mihi
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	CDL-132-sum	certus sum ego Ilprand clericus quia petiui et rogaui te uiro beatissimo Peredeo
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-582-sum	manifestu sum ego Witaldus presbiter ... quia per hanc cartulam ad censum persolvendum dare videor
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-806-sum	manifestu sum ego Walprando filio quondam Rachiprandi quia tu Filippus ... firmasti me
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-708-sum	manifestu sum ego Rodilando filio bone memorie Cristiani quia tu Hieremias ... dedisti mihi
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	MED-658-sum	manifestu sum ego Ildiperto avitator in loco Africo ... quia tu Ambrosius ... firmasti me
+sum	debeo	0	0	0	0	0	0	0	0	0	0	0	0	0	1	MED-767-debeamus	nam ... nos vobis exinde nec autores nec defensores neque restauratores nec pretium redditores vobis esse non debeamus
+sum	debeo	0	0	0	0	0	0	0	0	0	0	0	0	0	1	MED-253-deveamus	ut neque nos ... neque heredis vel successoris nostri restauratoris esse non deveamus
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	1	MED-186-fuissemus	et omnia in mea esse [= essent] potestatem, tamquam viri duo fratres fuissemus
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	CDL-230-sumus	quoniam incerti sumus omnis de Dei iudicio
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	1	CDL-144-sumus	ideoque sumus Cellulo considerante Dei timore et mercide anime mae
+sum	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-114-debeat	una pars de ipse duo portionis ... debeat esse in senodocio
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-80-fueret	sum [= sub] stimationem [= aestimatione] quales tunc fueret
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-45-fuisset	quod genitor noster servus fuisset sancte Marie
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-APPENDICE-fuisset	ut nos certam poterimus iungere ueritatem ... si fuisset ueritate
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-113-fuet	et qualiter ipsius demandatio fuet, conpliui et dedi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-351-fuerit	ad quem vobis inibi autilitas fuerit
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-752-fuerit	vobis vel ad locoposito vestro qui pro tempore fuerit
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-433-fuerit	dinari nove boni qualis tunc in die illa per capu bene fuerit expendivilis
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-763-fuerit	ad que utilitas fuerit ad ipsa plebe
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-165-fuerit	et sit in potestate de episcopo Lucensis eclesie qui tunc iuidem fuerit
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-806-fuerit	denarios bonos expendiviles quale per civitate ista Lucense ... fuerit expendiviles numero viginti et uno
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-256-fuerit	et eos gubernare debeam, ut uirtus mea fuerit
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-237-fuerit	et si plus fuerit fundamentum ipsius Sprincae et ortum
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-277-fuerit	et si Dei omnipotenti fuerit voluntate et de hoc seculo migratus fuero
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-758-fuerit	ad que vobis autilitas fuerit
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-468-fuerit	at que tibi utilitas fuerit
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-788-fuerit	si vestra fuerit voluntas exinde causas agendi
+sum		0	0	0	0	0	0	0	0	0	0	0	0	0	3	CDL-179-fuerit	et si forsitan nullus ex filiis aut nepotibus meis fuerit qui dignus sit
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-100-sit	ut post meo obitum in gremio ipsius ecclesie et monastherio sit potestatem
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-100-sit	ecclesiam et omnia ea ipsas res suprascriptas in mea sit potestatem ordinandi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-140-sit	nam alias res meas, ut dixi, omnia sit in potestate suprascripte ecclesie
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-40-sit	ut ... suprascripta rebus in tua ... sit in potestatem habendum
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-231-sit	et omnes res ipsas et homines ... sit potestatem in omnibus
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-261-sit	omnes res meas in mea sit potestatem usufructuandum
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-281-sit	reliquam uero medietatem rem meam sit in potestate coniugi meae Teusprandae
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-12-sit	omnis res meas ... omni tempore in eorum sit potestate
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-42-sit	dum ego aduiuere meruero, in mea sit potestatem guuernandi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-413-sit	post tuum et illarum duarum personarum decessum ... revertatur et sit in potestate ecclesie nostre sancti Stefani
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-274-sit	omnia medietate rebus meis ... sit in potestate de iam dicta Dei ecclesia vel de recture eius
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-425-sit	curtis ... in integrum in mea sit potestate abendi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-145-sit	omnia suprascripta res in mea sit potestatem usufructando
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-165-sit	et sit in potestate de episcopo Lucensis eclesie qui tunc iuidem fuerit ordinandi et defendendi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDT-65-sit	suprascripta binditiones mea ... in tua qui supra domno Ermari abbati ... sit potestate
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-175-sit	curtes sundriales ... sit in potestate suprascripte eclesiae
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-175-sit	omnes seruos uel ancillas seu aldiones meos ... in eius sit potestate
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-175-sit	quidquid a me iterum iniudicatum remanserit sit in potestate suprascripte eclesiae
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-206-sit	ipsum monasterium cum rebus suis in mea sit potestate habitandi ... et res mobiles et nutrimina
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-266-sit	ipse basilicha vel res ad eam pertinentem in eius sit potestatem usufructuandi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-27-sit	sic tamen ut, dum die uite me fueret, in mea sit potestatem usumfructu
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-277-sit	ut omnia casas et res meam in mea sit potestate vendendum
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-287-sit	simul et omnis res illas ... usufructuandi in tua sit potestatem
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-287-sit	simeliter et res illas ... usufructuandi in tua sit potestatem
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-787-sit	suprascripta casa et res, dum vita mea fuerit, in meam sit potestatem abendi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-797-sit	suprascripta medietas de vinea in mea sit potestatem diebus vite mee abendi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-308-sit	omnia iam dicta mea portione ... in prenominata Dei ecclesia et de eius rectoribus sit potestatem habendi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-178-sit	omnia suprascripta res, dum advixero, in mea sit potestatem regendi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-239-sit	nam meam portionem, ut dixi, in integrum sit in potestate suprascripte ecclesiae in prefinito
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-189-sit	ut diebus vite vestre in vestra sit potestate abendi 
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-410-fuit	hec fuit ante Sicherado clerico, Pastor, Trasimundus, Petrus, Firmo, Grauso, Petrus notarius
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-172-fuit	in loco Vicinia quantum ibidem mea fuit portionem in omnibus
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-114-fuit	et presens exempla data est Mauri qui fuit supradicti bone memorie quondam Uualprand episcopi
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-736-fuit	omnia et in omnibus quantum ei in suprascripto loco Crociccle fuit pertinentes
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-418-fuit	quale consuetudo fuit reddere de suprascripta angaria
+sum	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-131-debeant	ut cunctis diebus ipsas res in potestate de predictas eclesias esse debeant
+sum	debeo	0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-114-debeant	uolo ut liueri omnes esse debeant et a ius patronati absoluti
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-742-erant	erantque nobiscum Ademarius, Teodemundus vassi idem augusti, Ardo, Cunimundus scavinis
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-385-fuerant	et quando hanc professionem fecerat, cum ipso Rachinardo fuerant plurimis suis sacerdotes
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-309-fuerant	cum ipso Rachinardo fuerant plurimis suis sacerdotes
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-240-fuerint	ipsos homines cum quibus aut quales tunc fuerint
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-424-fuerint	quatraginta quinque solidos ... qualis tunc melioris per istam civitate per caput fuerint expendivilis
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-506-fuerint	denarios septuagenta duo ... quales in diebus illis per caput expendibiles fuerint hic Luca
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-516-fuerint	denarios bonos qualis tunc hic Luca per caput fuerint expendivilis numero viginti septe
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-477-fuerint	duodeci denarios bonos ... quales tunc per tempus expendibiles fuerint
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-428-fuerint	solidos quindecim ... qualis tunc melioris per istam civitate per caput fuerint expendiviles
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-478-fuerint	quattuordeci denarios bonos ... quales tunc per tempus expendibiles fuerint
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-240-sint	omnis suprascripta res et monasteria cum rebus suis in mea sint potestatem regendum
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-240-sint	illi homines qui mihi a germanis meis competunt in tua sint potestatem
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-231-sint	ut sint insimul pauperes duodecim
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-161-sint	hec omnia suprascripte terre uel uineae ... in integrum sint in ista sorte
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-582-sint	ut da admodum iam dicte case cum rebus suis in tua sint potestatem abendi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-93-sint	ut omnes sint ... liueri et absoluti ab omni nexu condicionis uel a iugo seruitutis
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-244-sint	cum omnes res tue sint pertenentes ecclesie sancti Ipoliti
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-175-sint	seruos uero uel ancillas seu aldiones meos ... sint omnes in potestate suprascripte eclesiae
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-576-sint	predicta curte seo casis et omnibus rebus ad eas pertinentibus in mea ... sint potestatem habendi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-507-sint	ut infra isti quinque anni venturi sint ibidem ipsas ambas petias vinea levata et propaginata
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-197-sint	ipsas res sint in potestatem in ipsa Dei ecclesia
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-197-sint	ut omnia ipsas res ad ipsas casas pertenentem in mea sint potestatem lauorandi
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	MED-789-sint	suprascripta ecclesia sancti Nazari ... sive sepe [= saepem] ... in mea ... sint potestatem abendum
+sum		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-APPENDICE-sint	partem ipsorum cui exinde postea ipse Deusdona presbiter cartulam emisit sint exinde contemti et remoti
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-400-sunt	case et res ecclesie sancti Martini episcopatus vestri que sunt in loco Villa
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDT-40-sunt	ita sunt ut ab hac die suprascripta rebus in tua ... sit in potestatem habendum
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-111-sunt	et da finis sunt fine sancti Richuli et fine de Tricchase et fine de Aque Albule
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-774-sunt	quia casa et res ipsas proprie sunt ipsius ecclesie sancti Cassiani
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-265-sunt	ambae ipsae petiae sunt per mensuram plus minus sistariorum uiginti
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-265-sunt	et ipsae uineae sunt per mensuram plus minus sistariorum decem et octo
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-146-sunt	super illu est alius testuclu tesseratu et super illu duo testucli sunt duo quercias
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-788-sunt	et ille petie de vinea et tres petie de terre sunt ad uno tenente
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-549-sunt	id sunt Teupertus diaconus et Anspaldo clericus qui previderunt ac renuntiaverunt
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-200-est	et est in terre fini ab uno latere terra Saxuli
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-200-est	ecclesiae beati sancti Martini ubi est domo episcoporum
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-250-est	alio latere est tenente in terram meam
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-90-est	ego Achipert ... do , duno et per dotis titulo per hanc cartola confirmo ..., id est, casa una ubi uocabulum est Miliano
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-221-est	qui ... latere unum tenente est in vinea ipsius Witi clerici et alio latere est tenente in vinea Palduli
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-132-est	eclesie sancti Martini ubi est domo episcopii
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-752-est	omnia quantum in suprascripto loco Paterno ipsius episcopatui vestro sancti Martini est pertenentes
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-762-est	ecclesie vestre sancte Marie quod est plebe batismalis sita Sexto
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-503-est	id est una petia de vinea qui est pertinentes de episcopato vestro
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-213-est	ecclesiae beatissimi sancti Martini ubi est domus episcoporum Lucense
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-713-est	ecclesie beate Dei genitricis Marie semper virginis quod est plebe batismales
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-504-est	in suprascripto loco vico Gundualdi quod est clausura
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-524-est	dedisti nobis, id est, res illa pertinentes ipsius ecclesie sancte Marie
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-244-est	sic manifestavi et sic est veritas et manu mea subscripsi
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-384-est	et est tenente uno caput in fiuwadia, alio caput tene in terra
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-615-est	manifestum est mihi Cristianus presbiter ... quia convenit mihi ... ut inter nos de aliquantulam res commutationem facere deberemus
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-446-est	censum reddere et perxolvere debeamus ..., id est, denarios bonos, mundos, bene per caput expendiviles numero triginta sex
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-76-est	et est pauco menus de modiloco uno
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-286-est	et est ipse tua portionem de ipso sulario ... da latere de casa Callucci barbani nostri
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-786-est	omnia quantum ad ipsa ecclesia est pertenentes
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-207-est	manifestum est nobis Osperto et Osprando ... quia per cartulam tradedit nobis quondam Auderadus presbiter res suas
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-307-est	una petia de terra nostra quas abemus ad Strata qui unum caput est tenente ...
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-217-est	si ... ipsa suprascripta iustitia in ecclesia sancti Iusti non dedero ..., id est, tremisse uno in auro aut per oleo vel per cera
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-277-est	res mea dispensare diveatis ..., id est in primis petias duos de vinea mea
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-397-est	ecclesie sancti Martini ubi est domus episcoporum
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-448-est	et ipse terra ... latus uno est tenente in terra
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-468-est	in unam casam massaricia in loco Corsanico ubi dicitur ad Tribia que est pertinens ipsius ecclesie
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-578-est	ad lavorandum et censum vobis persolvendum dedisti mihi, id est,res illa in loco ubi dicitur Bulficiano
+sum		0	0	0	0	0	0	0	1	1	0	0	0	2	3	MED-549-est	alio capo est tenente in silva suprascripte ecclesie sancti Ipoliti
+superimpono		1	1	1	1	1	0	1	1	0	1	0	0	6	1	CDT-86-superinposuerimus	si ego ... vel posteris nostris ... plus angaria vel pensione superinposuerimus
+superimpono	praesumo	1	1	1	1	1	0	1	1	0	1	0	0	6	3	MED-201-presumserint	si eis in aliquo iustitia aut redditum superimponere presumserint vel eos exinde foras mittere quesierint
+suscipio		1	1	1	1	1	0	0	1	1	0	0	0	5	1	CDL-65-suscepi	et suscepi ad te pretium placitum
+suscipio	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	3	MED-231-deveat	quos una die per singulas ebdomadas in ipso senodocio sancti Vitalis suscipere et a mensa pascere deveat ipse presbiter
+teneo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-451-tene	qui uno caput tene in via publica
+teneo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-503-tene	ipsa vinea ... alio latus tene in terra Posi de Cuselle
+teneo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-277-tene	una ex ipsa petias de terra ... uno latu tene in vinea iam dicto Gumperti presbiteri
+teneo		1	1	1	0	0	0	0	0	1	1	0	0	3	1	CDL-178-tenere	ea que nouiscum in perpetuum tenere non possumus de ipsa temporalia rerum auundantia
+teneo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	CDL-227-te	simul et terra mea quem aueo ubi dicitur Arquata qui capu te<ne> in Auserclo
+teneo		1	0	0	0	0	0	0	1	0	0	0	0	1	2	CDL-65-teneas	ut hab utierna die habeas, teneas atque possedeas, tuoque dominio uindicis hac defendas
+teneo		1	1	1	0	0	0	0	1	0	0	0	1	3	2	MED-277-tenueritis	quis de vos plus celerius potueritis et hanc cartula dispensationis pre manibus tenueritis
+teneo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	CDL-161-tenet	petio de uinea ad Sarito qui tenet capite in uinea sanctae Marie
+teneo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-553-tenet	qui ... alio lato tenet in terra mea per designatas locas
+teneo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-594-tenet	qui uno caput tenet in via publica
+teneo		1	1	1	0	0	0	0	1	1	0	0	0	3	3	MED-455-tenet	qui uno caput tenet in via publica
+testificor		0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-385-testificati	et dum prefati sacerdotes taliter testificati fuissent
+testificor		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-385-testificati	sicut ipsi sacerdotes nostri de ipso iurando testificati sunt
+testificor		0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-309-testificati	et dum prefati sacerdotes taliter testificati fuissent
+testor		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-539-testati	isti omnes prefati clerici per sagramentum ad sancta Dei evangelia unianimiter testati sunt
+tollo		1	1	1	1	1	0	1	1	0	1	0	1	7	3	CDL-261-tolla	si forsitans ipsi filii mei ad ipsa ecclesia seruire nuluere ... tolla portionem suam quale eorum legibus conpetet
+tracto		1	1	1	1	0	0	1	1	1	1	0	0	6	1	CDL-31-tractauimus	ego Aurinand uir deuotus una cum Gudifrid ... tractauimus ut de paruitatis rebus nostris nouis mercidem adcriscat
+trado		1	1	1	1	1	1	1	1	1	1	0	1	9	1	CDL-111-tradedi	et quatinus a te ipsus pretio recipi et in tua emtoris tradedi potestate
+trado		1	1	1	1	1	1	1	1	1	1	0	1	9	1	CDT-7-tradedi	constat me Sivericu ... tradidissi et tradedi tivi predicto Arnoni hemtoris vel ad filiis tuis omnia medietatem de rix substantia mea
+trado		1	1	1	1	1	1	1	1	1	1	0	0	8	1	CDL-68-tradedi	constat me Pettu ... tradedisset et de praesentem tradedi tebi Aloin uiro uenerabili presbitero aliquantula terrula iuris meis
+trado		1	1	1	1	1	1	1	1	1	1	0	0	8	1	MED-306-tradidi	alia omnia ... offerui adque tradidi in integrum
+trado		1	1	1	1	1	1	1	1	1	1	0	0	8	2	CDL-283-tradidisti	omnem rem ubicumque pertenentem eidem casae mihi tradidisti ad laborandum et gubernandum
+transfundo		1	1	1	1	1	0	1	1	1	1	0	0	7	1	CDL-73-tranfundo	parte meam in integro tibi qui supra beate sancto Petro tranfundo in integrum ad possidendum
+vado		0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDT-89-vadam	quam filiis qua mulierem tua vadam ubi volueris
+vendo		1	1	1	1	1	0	1	1	1	1	0	1	8	1	CDL-105-uendedi	constat me Perprand ... uendedisset et uendedi ... parte mea de sala sundriale
+vendo		1	1	1	1	1	0	1	1	1	1	0	1	8	1	CDT-64-bindedi	constas me Arnicausu ... bendedissem et bindedi ... duo scripuli in casale Mariano
+vendo		1	1	1	1	1	0	1	1	1	1	0	1	8	1	MED-764-vindo	petia ipsa de prato ... tibi eas vindo et trado in integrum
+vendo		1	0	0	1	1	0	1	1	0	1	0	0	5	1	CDT-8-vindidero	et si vindidero aut alienavero ego aut meus heredes
+vendo		1	1	1	1	1	0	1	1	1	1	0	1	8	1	CDT-62-vindedimus	constat me que supra Laiderada et Lucius iugalis vindedissem et vindedimus ... una petia de terra in casale Bobbiano
+vendo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	CDL-89-uendidet	portionem eius ... uendere et tradere uisus sum secundum qualiter ea mihi Donni uendidet
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-181-vinnere	excepto si quicunque homo vinnere
+venio	tento	0	0	0	1	1	0	1	1	0	1	0	0	5	1	CDL-45-uenire	si contra hanc cartula uenditionis a me facta uel tradita ire, uenire temptauero
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDL-185-uineri	si quis amodo ego qui supra uinditor uel heredes meis aut aliquis omo uineri
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDT-25-vineri	si amodo ego qui supra vindetrix vel heredes meis aut aliquis homo vineri
+venio	debeo	0	0	0	1	1	0	0	1	0	1	0	0	4	3	MED-781-debeas	et homines illos qui in suprascripta casa abitantes fuerit ad mandato vestro venire debeas
+venio	debeo	0	0	0	1	1	0	0	1	0	1	0	0	4	3	MED-437-debeas	et ille homo ... semper ad mandato nostro venire debeas ad iustitiam faciendo
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDL-141-uineris	si quis amodo ego qui supra uinditor uel heredes meis aut aliquis homo uineris
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDL-97-uineris	si quando nus qui uindituri sumus aut aliquis homo uineris
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	2	MED-461-veneritis	et quando inibi vos aut missi tui, id est homines tres, super vendemmia veneritis
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	2	MED-576-veneritis	nam quando vos aut missus vester ibi ad ipsam curtem veneritis
+venio	debeo	0	0	0	1	1	0	0	1	0	1	0	0	4	1	MED-351-debeamus	et quando nobis mandaveritis, ad mandato vestro venire debeamus
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	CDL-255-uenit	qualiter uenit ante me Peredeo ... Alitroda mulier ... simul et Petrus clericus
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-202-venit	venit ante nos Alprandus
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-397-venit	ibique venit ante nos Benedictus advocato ecclesie sancti Martini ... et ex alia parte Suave
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	CDL-256-uenerit	quando ad ipsum usumfructum ibidem uenerit rector ipsius ecclesiae uel missus eius
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-401-venerit	nam si alter quiscumque homo venerit absque nostro conludio
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-384-venerit	nam si alter quisqumque homo venerit absque omni nostro conludio
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-437-venerit	et si ... ipsi homo qui in ipsa casa resederit ad mandato nostro venerit
+venio		0	0	0	1	1	0	1	1	0	1	0	0	5	3	MED-497-venerit	nam si alter quiscumque homo venerit absque nostro ..... vestro conludio
+venio	debeo	0	0	0	1	1	0	0	1	0	1	0	0	4	3	MED-710-debeant	et homines illos qui in suprascripta casa abitantes fuerit a mandato vestro venire debeant
+venio	debeo	0	0	0	1	1	0	0	1	0	1	0	0	4	3	MED-725-debeant	et homines illos qui in suprascriptam casa abitantes fuerint a mandato vestro venire debeant
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-742-venerunt	ibique in nostri venerunt presentia, id est, Gisulfus advocatus ...
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-742-venerunt	in constituta die in eadem curte ducalae ... utraque partes venerunt
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-564-venerunt	venerunt ibi in nostri presencia Giselmarius vassus domni imperatoris
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-564-venerunt	in statuta die venerunt ambe partes denuo nostri presencia
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	MED-774-venerunt	ibique in nostra venerunt presencia, id est Garipertus diaconus
+venio		0	0	0	1	1	0	1	1	1	1	0	0	6	3	CDT-45-venerunt	venerunt ibi ante nos Arnulfus vicedomoi nec non et Rotprandulu, Aspertulu clericus et Perticausulu
+venumdo	debeo	1	1	1	1	1	0	0	1	0	1	0	1	6	1	CDL-207-uenundare	per cartulam tradedit nobis quondam Auderadus presbiter res suas, ut eas uenundare deberimus
+venumdo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	MED-487-venundavit	ipsa suam portionem una cum cesis et fossas seo arboribus suis mihi venundavit
+venumdo		1	1	1	1	1	0	1	1	1	1	0	1	8	3	MED-797-venundavit	Teudectulo filius quondam Pauli ... venundavit mihi, id est, casis et omnibus rebus suis
+venumdo		1	1	1	1	1	0	1	1	1	1	0	0	7	3	CDL-253-uenundauerunt	qui ... omnia nobis Ansifridi et Friduni uenundauerunt et cartulam nobis exinde fecerunt
+video		1	1	1	0	0	0	0	1	1	0	0	1	4	1	MED-530-vidi	ego Alpertus otentico illo vidi et legi unde hanc exemplar facta est et hic subscripsi
+video		1	1	1	0	0	0	0	1	1	0	0	0	3	1	MED-736-vidi	ego Winighisi rogatus a Wiliperto presbitero me teste subscripsi et pretio dante vidi
+video		1	1	1	0	0	0	0	1	1	0	0	1	4	1	MED-767-vidi	ego qui supra Leo autenticho illo vidi et legi unde hanc exemplar facta est et hic et ibi subscripsi
+video		1	1	1	0	0	0	0	1	1	0	0	1	4	1	MED-767-vidi	ego qui supra Anselmus autenticho illo vidi et legi unde hanc exemplar facta est et hic et ibi subscripsi
+vivo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-171-uixere	et si ipsa coniuge mea super me uixere et lecto meo costodierit
+vivo	debeo	0	1	1	0	0	0	0	1	0	0	0	0	2	3	CDL-31-deueas	ut filii nostri ... iuidem monacale uita uiuere deueas
+vivo		0	0	0	0	0	0	0	1	0	0	0	0	1	3	CDL-179-uixerit	et quem ego iuidem ordinauero, in eius sit potestate regendi, usufructuandi, dum uixerit tantum
+vivo		0	0	0	0	0	0	0	1	1	0	0	0	2	3	CDL-183-uiuit	dum in hoc seculo uiuit homo
+volo		1	1	1	0	0	0	1	1	1	1	0	0	5	1	CDL-214-uolo	et uolo ut aueas eclesia sancte Reparate ... parte mea de res in loco Nobule
+volo		1	1	1	0	0	0	1	1	1	1	0	0	5	1	MED-306-volo	excepto silva mea quam abeo in Casule ques volo ut abeas heredes meos pro falcidie nomine
+volo		1	1	1	0	0	0	1	1	1	1	0	0	5	1	MED-797-volo	nisi pos vero meo decesso volo ut prefata vinea ... deveniat et sit potestatem predicte ecclesie
+volo		1	1	1	0	0	0	1	1	0	1	0	0	4	2	CDL-111-uolueris	et facias de ea quitquit uolueris
+volo		1	1	1	0	0	0	1	1	0	1	0	0	4	2	MED-240-volueris	in potestate tua ... faciendum quid aut qualiter volueris in omnibus
+volo		1	0	0	0	0	0	1	1	0	1	0	0	3	2	MED-689-volueritis	et quandoque vos volueritis tam in vita mea quam et pos obitum meum, potestatem abeatis ...
+		493	380	380	480	348	95	399	755	418	466	27	199	3567			
+		0,608641975	0,469135802	0,469135802	0,592592593	0,42962963	0,117283951	0,492592593	0,932098765	0,516049383	0,575308642	0,033333333	0,245679012	4,403703704			
+		60,86419753	46,91358025	46,91358025	59,25925926	42,96296296	11,72839506	49,25925926	93,20987654	51,60493827	57,5	3,333333333	24,56790123	44,03703704			
+		semantic transitivity of the verb	syntactic transitivity of the clause	2 participants	action	telicity	punctuality	volitionality	affirmation	realis mode	agency	affected O	individuat. O	?			
+																	
